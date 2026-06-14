@@ -104,6 +104,18 @@ hr { border: none; border-top: 1px solid var(--line); margin: 16px 0; }
   background: rgba(108,140,255,.18); color: var(--accent); margin-right: 6px;
 }
 
+.all-q-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  margin: 18px 0 4px; padding-top: 12px; border-top: 1px solid var(--line);
+}
+.all-questions {
+  margin-top: 8px; max-height: 360px; overflow-y: auto;
+  border: 1px solid var(--line); border-radius: 8px; padding: 8px;
+  background: rgba(0,0,0,.12);
+}
+.all-questions .result-item:last-child { margin-bottom: 0; }
+.all-q-sentinel { height: 1px; }
+
 .detail {
   margin-top: 12px; padding: 10px; border-radius: 8px;
   background: var(--panel2); border: 1px solid var(--line); font-size: 13px;

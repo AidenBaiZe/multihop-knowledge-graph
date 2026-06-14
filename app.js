@@ -50,6 +50,7 @@ async function connect() {
     toast("已连接到 AuraDB");
     initRelationFilter();
     loadDemo();
+    initAllQuestions();
   } catch (e) {
     setStatus("err", "连接失败");
     toast("连接失败：" + (e.message || e), true);
@@ -134,6 +135,35 @@ function updateEmptyState() {
 
 async function loadDemo() {
   if (gEdges.length) return;
+  try {
+    const hub = await run(
+      "MATCH (e:Entity)-[r:REL]-() WITH e, count(r) AS d " +
+        "ORDER BY d DESC LIMIT 1 RETURN e.name AS name, d"
+    );
+    if (hub.length) {
+      const name = hub[0].get("name");
+      const degree = hub[0].get("d").toNumber();
+      let rows = await run(
+        "MATCH (s:Entity {name:$name})-[r:REL]-(t) " +
+          "RETURN DISTINCT startNode(r).name AS a, endNode(r).name AS b, r.type AS type LIMIT 150",
+        { name }
+      );
+      if (rows.length < 30) {
+        rows = await run(
+          "MATCH p=(s:Entity {name:$name})-[:REL*1..2]-(t) " +
+            "WITH relationships(p) AS rels UNWIND rels AS r " +
+            "RETURN DISTINCT startNode(r).name AS a, endNode(r).name AS b, r.type AS type LIMIT 150",
+          { name }
+        );
+      }
+      if (rows.length) {
+        clearGraph();
+        drawEdges(rows, name, true);
+        toast(`首屏：以「${name}」为中心（共 ${degree} 条关系），载入 ${rows.length} 条`);
+        return;
+      }
+    }
+  } catch (_) {}
   for (const seed of ["Polish-Russian War", "Snow White", "Wong Kar-wai"]) {
     try {
       const rows = await run(
@@ -144,7 +174,7 @@ async function loadDemo() {
       );
       if (rows.length) {
         clearGraph();
-        drawEdges(rows, seed);
+        drawEdges(rows, seed, true);
         toast("已载入示例图谱，可在左侧继续探索");
         return;
       }
@@ -161,9 +191,21 @@ async function loadRandomQuestion() {
   }
 }
 
-function drawEdges(rows, focus) {
+function drawEdges(rows, focus, isHub) {
   rows.forEach((r) => addEdge(r.get("a"), r.get("b"), r.get("type")));
-  if (focus) addNode(focus, { color: { background: "#46d5b3", border: "#7af0d6" }, size: 20 });
+  if (focus) {
+    if (isHub) {
+      addNode(focus, {
+        color: { background: "#ffb84d", border: "#ffe0a0" },
+        size: 40,
+        font: { color: "#fff", size: 20, face: "PingFang SC", bold: true },
+        borderWidth: 3,
+        shadow: { enabled: true, color: "rgba(255,184,77,0.6)", size: 24 },
+      });
+    } else {
+      addNode(focus, { color: { background: "#46d5b3", border: "#7af0d6" }, size: 20 });
+    }
+  }
   ensureNetwork();
   network.fit({ animation: true });
 }
@@ -214,6 +256,86 @@ async function searchAll() {
   } catch (e) {
     box.innerHTML = "";
     toast("检索失败：" + e.message, true);
+  }
+}
+
+/* ---------- 全部问题（分页懒加载） ---------- */
+const ALL_Q_PAGE = 50;
+let allQState = { skip: 0, total: null, loading: false, done: false, observer: null };
+
+async function loadAllQuestionsTotal() {
+  try {
+    const r = await run("MATCH (q:Question) RETURN count(q) AS c");
+    allQState.total = r[0].get("c").toNumber();
+    updateAllQCount();
+  } catch (_) {}
+}
+
+function updateAllQCount() {
+  const el = $("all-q-count");
+  if (!el) return;
+  const t = allQState.total == null ? "?" : allQState.total;
+  el.textContent = `已加载 ${allQState.skip} / ${t}`;
+}
+
+async function loadMoreQuestions() {
+  if (allQState.loading || allQState.done || !driver) return;
+  allQState.loading = true;
+  const list = $("all-q-list");
+  try {
+    const rows = await run(
+      "MATCH (q:Question) RETURN q.id AS id, q.type AS type, q.question AS question, q.answer AS answer " +
+        "ORDER BY q.id SKIP $skip LIMIT $limit",
+      { skip: neo4j.int(allQState.skip), limit: neo4j.int(ALL_Q_PAGE) }
+    );
+    if (!rows.length) {
+      allQState.done = true;
+      updateAllQCount();
+      return;
+    }
+    const frag = document.createDocumentFragment();
+    rows.forEach((r) => {
+      const id = r.get("id");
+      const div = document.createElement("div");
+      div.className = "result-item";
+      div.innerHTML =
+        `<span class="tag">${esc(r.get("type"))}</span>${esc(r.get("question"))}` +
+        `<div class="meta">答案：${esc(r.get("answer"))}</div>`;
+      div.addEventListener("click", () => loadQuestion(id));
+      frag.appendChild(div);
+    });
+    list.appendChild(frag);
+    allQState.skip += rows.length;
+    if (rows.length < ALL_Q_PAGE) allQState.done = true;
+    if (allQState.total != null && allQState.skip >= allQState.total) allQState.done = true;
+    updateAllQCount();
+  } catch (e) {
+    toast("加载问题列表失败：" + e.message, true);
+  } finally {
+    allQState.loading = false;
+  }
+}
+
+function initAllQuestions() {
+  allQState = { skip: 0, total: null, loading: false, done: false, observer: null };
+  const list = $("all-q-list");
+  if (list) list.innerHTML = "";
+  loadAllQuestionsTotal();
+  loadMoreQuestions();
+  const sentinel = $("all-q-sentinel");
+  const root = $("all-questions");
+  if (sentinel && root && "IntersectionObserver" in window) {
+    allQState.observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((e) => e.isIntersecting)) loadMoreQuestions();
+      },
+      { root, rootMargin: "120px" }
+    );
+    allQState.observer.observe(sentinel);
+  } else if (root) {
+    root.addEventListener("scroll", () => {
+      if (root.scrollTop + root.clientHeight >= root.scrollHeight - 120) loadMoreQuestions();
+    });
   }
 }
 
