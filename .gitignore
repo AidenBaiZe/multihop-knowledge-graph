@@ -1,0 +1,15 @@
+# 原始数据集（体积大，不入库；从官方渠道获取后本地导入）
+*.json
+!sample.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Neo4j 下载的凭据文件
+Neo4j-*.txt
+
+# 系统
+.DS_Store

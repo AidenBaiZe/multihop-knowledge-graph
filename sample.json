@@ -1,0 +1,3540 @@
+[
+ {
+  "_id": "8813f87c0bdd11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Who is the mother of the director of film Polish-Russian War (Film)?",
+  "context": [
+   [
+    "Maheen Khan",
+    [
+     "Maheen Khan is a Pakistani fashion and costume designer, also an award winner fashion designer for fashion labels like\" The Embroidery HouseMaheen\" and\" Gulabo\".",
+     "She has done many national and international fashion events and shows.",
+     "She undertook embroidery for the film Snow White and the Huntsman and television series",
+     "The Jewel in the Crown."
+    ]
+   ],
+   [
+    "Viktor Yeliseyev",
+    [
+     "Viktor Petrovich Yeliseyev( born June 9, 1950) is a Russian general, orchestra conductor and music teacher.",
+     "He is the director of the Ministry of the Interior Ensemble, one of the two Russian Red Army Choirs."
+    ]
+   ],
+   [
+    "Alice Washburn",
+    [
+     "Alice Washburn( 1860- 1929) was an American stage and film actress.",
+     "She worked at the Edison, Vitagraph and Kalem studios.",
+     "Her final film Snow White was her only known feature film.",
+     "She died of heart attack in November 1929."
+    ]
+   ],
+   [
+    "Minamoto no Chikako",
+    [
+     "She was the mother of Prince Morinaga."
+    ]
+   ],
+   [
+    "Polish-Russian War (film)",
+    [
+     "Polish-Russian War",
+     "(Wojna polsko-ruska) is a 2009 Polish film directed by Xawery Żuławski based on the novel Polish-Russian War under the white-red flag by Dorota Masłowska."
+    ]
+   ],
+   [
+    "A Snow White Christmas",
+    [
+     "A Snow White Christmas is a Christmas animated television special produced by Filmation and telecast December 19, 1980, on CBS.",
+     "It is a sequel to the fairy tale\" Snow White\", unrelated to Filmation's other sequel to\" Snow White\" titled\" Happily Ever After\"( 1990).",
+     "The film's plot revolves around the return of the Wicked Queen, who is unexpectedly brought back to life during Christmas and casts an evil spell that freezes the entire land.",
+     "Only the young Snow White, the daughter of the original Snow White, manages to escape and take refuge with the seven giants with her dwarf friend.",
+     "It is now up to the giants to defeat the Queen forever and save the kingdom."
+    ]
+   ],
+   [
+    "Snow White and the Three Stooges",
+    [
+     "Snow White and the Three Stooges is the second feature film to star the Three Stooges after their 1959 resurgence in popularity.",
+     "By this time, the trio consisted of Moe Howard, Larry Fine, and Joe DeRita( dubbed\" Curly Joe\").",
+     "Released by 20th Century Fox, this was the trio's take on the classic fairy tale\" Snow White and the Seven Dwarfs\".",
+     "The film was retitled Snow White and the Three Clowns in Great Britain.",
+     "This was Walter Lang ‘s final directing film before his retirement.",
+     "Olympic gold medalist figure skater Carol Heiss starred as Snow White, who must flee her home after The Evil Queen, her evil stepmother, wishes her to be dead.",
+     "Seeking refuge in the cottage of the seven dwarfs, she accidentally meets the Stooges, who are house sitting for them while they are away."
+    ]
+   ],
+   [
+    "Xawery Żuławski",
+    [
+     "Xawery Żuławski (born 22 December 1971 in Warsaw) is a Polish film director.",
+     "In 1995 he graduated National Film School in Łódź.",
+     "He is the son of actress Małgorzata Braunek and director Andrzej Żuławski.",
+     "His second feature \"Wojna polsko-ruska\" (2009), adapted from the controversial best-selling novel by Dorota Masłowska, won First Prize in the New Polish Films competition at the 9th Era New Horizons Film Festival in Wrocław.",
+     "In 2013, he stated he intends to direct a Polish novel \"Zły\" by Leopold Tyrmand.",
+     "Żuławski and his wife Maria Strzelecka had 2 children together:",
+     "son Kaj Żuławski (born 2002) and daughter Jagna Żuławska (born 2009)."
+    ]
+   ],
+   [
+    "Snow White and the Seven Dwarfs (1955 film)",
+    [
+     "Snow White and the Seven Dwarfs( USA:\" Snow White\") is a 1955 German film, directed by Erich Kobler, based on the story of Schneewittchen by the Brothers Grimm."
+    ]
+   ],
+   [
+    "Liberty Ross",
+    [
+     "Liberty Lettice Lark Ross( born 23 September 1978) is an English model and actress.",
+     "She has appeared in publications such as\" VogueHarper's Bazaari- D\", and\" Dazed& Confused\".",
+     "She played the role of Queen Eleanor in the 2012 fantasy film\" Snow White and the Huntsman\", directed by her then- husband, Rupert Sanders.",
+     "She is the sister of composers Atticus and Leopold Ross."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Polish-Russian War (film)",
+    1
+   ],
+   [
+    "Xawery Żuławski",
+    2
+   ]
+  ],
+  "evidences": [
+   [
+    "Polish-Russian War",
+    "director",
+    "Xawery Żuławski"
+   ],
+   [
+    "Xawery Żuławski",
+    "mother",
+    "Małgorzata Braunek"
+   ]
+  ],
+  "answer": "Małgorzata Braunek"
+ },
+ {
+  "_id": "61a46987092f11ebbdaeac1f6bf848b6",
+  "type": "comparison",
+  "question": "Which film came out first, Blind Shaft or The Mask Of Fu Manchu?",
+  "context": [
+   [
+    "Blind Shaft",
+    [
+     "Blind Shaft is a 2003 film about a pair of brutal con artists operating in the illegal coal mines of present- day northern China.",
+     "The film was written and directed by Li Yang( 李杨), and is based on Chinese writer Liu Qingbang's short novel\" Shen MuSacred Wood\")."
+    ]
+   ],
+   [
+    "The Mysterious Dr. Fu Manchu",
+    [
+     "The Mysterious Dr. Fu Manchu is a 1929 American pre-Code drama film directed by Rowland V. Lee and starring Warner Oland as Dr. Fu Manchu.",
+     "It was the first Fu Manchu film of the talkie era.",
+     "Since this was during the transition period to sound, a silent version was also released in the United States."
+    ]
+   ],
+   [
+    "The Mask of Fu Manchu",
+    [
+     "The Mask of Fu Manchu is a 1932 pre-Code adventure film directed by Charles Brabin.",
+     "It was written by Irene Kuhn, Edgar Allan Woolf and John Willard based on the 1932 novel of the same name by Sax Rohmer.",
+     "Starring Boris Karloff as Fu Manchu, and featuring Myrna Loy as his depraved daughter, the movie revolves around Fu Manchu's quest for the golden sword and mask of Genghis Khan.",
+     "Lewis Stone plays his nemesis.",
+     "Dr. Petrie is absent from this film."
+    ]
+   ],
+   [
+    "The Castle of Fu Manchu",
+    [
+     "The Castle of Fu Manchu( also known as The Torture Chamber of Dr. Fu Manchu and also known by its German title Die Folterkammer des Dr. Fu Man Chu) is a 1969 film and the fifth and final Dr. Fu Manchu film with Christopher Lee portraying the title character."
+    ]
+   ],
+   [
+    "The Brides of Fu Manchu",
+    [
+     "The Brides of Fu Manchu is a 1966 British/ West German Constantin Film co-production adventure crime film based on the fictional Chinese villain Dr. Fu Manchu, created by Sax Rohmer.",
+     "It was the second film in a series, and was preceded by\" The Face of Fu ManchuThe Vengeance of Fu Manchu\" followed in 1967,\" The Blood of Fu Manchu\" in 1968, and\" The Castle of Fu Manchu\" in 1969.",
+     "It was produced by Harry Alan Towers for Hallam Productions.",
+     "Like the first film, it was directed by Don Sharp, and starred Christopher Lee as Fu Manchu.",
+     "Nigel Green was replaced by Douglas Wilmer as Scotland Yard detective Nayland Smith.",
+     "The action takes place mainly in London, where much of the location filming took place."
+    ]
+   ],
+   [
+    "Les Trottoirs de Bangkok",
+    [
+     "Les Trottoirs de Bangkok( English:\" The Sidewalks of Bangkok\", also known as\" Bangkok Interdit\") is a 1984 erotic thriller film directed by Jean Rollin.",
+     "The film was inspired by the 1932 Boris Karloff classic\" The Mask of Fu Manchu\".",
+     "In contrast to Rollin's usual themes of vampires, dream- like atmosphere and crumbling châteaus,\" Les Trottoirs des Bangkok\" mixes themes of adventure, crime and mystery with comic book dialogue, while still featuring naked women and sex, which his films were known for."
+    ]
+   ],
+   [
+    "The Face of Fu Manchu",
+    [
+     "The Face of Fu Manchu is a 1965 thriller film directed by Don Sharp and based on the characters created by Sax Rohmer.",
+     "It stars Christopher Lee as the eponymous villain, a Chinese criminal mastermind, and Nigel Green as his pursuing rival Nayland Smith, a Scotland Yard detective.",
+     "The film was a British- West German co-production, and was the first in a five- part series starring Lee and produced by Harry Alan Towers for Constantin Film, the second of which was\" The Brides of Fu Manchu\" released the next year, with the final entry being\" The Castle of Fu Manchu\" in 1969.",
+     "It was shot in Technicolor and Techniscope, on- location in County Dublin, Ireland."
+    ]
+   ],
+   [
+    "The Mask of the Gorilla",
+    [
+     "The Mask of the Gorilla is a 1958 French action film directed by Bernard Borderie."
+    ]
+   ],
+   [
+    "The Blood of Fu Manchu",
+    [
+     "The Blood of Fu Manchu, also known as Fu Manchu and the Kiss of Death, Kiss of Death, Kiss and Kill( U.S. title) and Against All Odds( original U.S. video title), is a 1968 British adventure crime film directed by Jesús Franco, based on the fictional Asian villain Dr. Fu Manchu created by Sax Rohmer.",
+     "It was the fourth film in a series, and was preceded by\" The Vengeance of Fu Manchu The Castle of Fu Manchu\" followed in 1969.",
+     "It was produced by Harry Alan Towers for Udastex Films.",
+     "It starred Christopher Lee as Dr. Fu Manchu, Richard Greene as Scotland Yard detective Nayland Smith, and Howard Marion- Crawford as Dr. Petrie.",
+     "The movie was filmed in Spain and Brazil.",
+     "Shirley Eaton appears in a scene that she claimed she was never paid for; apparently, the director Jesús Franco had inserted some stock footage of her from one of her films(\" The Girl from Rio\"( 1968)) into the film without telling her.",
+     "She only found out years later that she had been in a Fu Manchu film."
+    ]
+   ],
+   [
+    "The Return of Dr. Fu Manchu",
+    [
+     "The Return of Dr. Fu Manchu is a 1930 American pre-Code film directed by Rowland V. Lee.",
+     "It is the second of three films starring Warner Oland as the fiendish Fu Manchu, who returns from apparent death in the previous film,\" The Mysterious Dr. Fu Manchu\"( 1929), to seek revenge on those he holds responsible for the death of his wife and child."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Blind Shaft",
+    0
+   ],
+   [
+    "The Mask of Fu Manchu",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Blind Shaft",
+    "publication date",
+    "2003"
+   ],
+   [
+    "The Mask of Fu Manchu",
+    "publication date",
+    "1932"
+   ]
+  ],
+  "answer": "The Mask Of Fu Manchu"
+ },
+ {
+  "_id": "e2a3bf2a0bdd11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "When did John V, Prince Of Anhalt-Zerbst's father die?",
+  "context": [
+   [
+    "Waldemar I, Prince of Anhalt-Zerbst",
+    [
+     "Waldemar I, Prince of Anhalt- Zerbst( died 7 January 1368) was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the youngest son of Albert I, Prince of Anhalt- Zerbst, by his second wife Agnes, daughter of Conrad, Margrave of Brandenburg- Stendal."
+    ]
+   ],
+   [
+    "Bernhard VII, Prince of Anhalt-Zerbst",
+    [
+     "Bernhard VII of Anhalt- Zerbst( 17 March 1540 – 1 March 1570), was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was born and died in Dessau, and was the third and youngest son of John V, Prince of Anhalt- Zerbst by his wife Margaret, daughter of Joachim I Nestor, Elector of Brandenburg."
+    ]
+   ],
+   [
+    "Albert III, Prince of Anhalt-Zerbst",
+    [
+     "Albert III, Prince of Anhalt- Zerbst( died ca. 1 August 1359) was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the eldest son of Albert II, Prince of Anhalt- Zerbst, by his second wife Beatrix, daughter of Rudolf I, Elector of Saxony and Duke of Saxe- Wittemberg."
+    ]
+   ],
+   [
+    "John VI, Prince of Anhalt-Zerbst",
+    [
+     "John VI of Anhalt-Zerbst (Zerbst, 24 March 1621 – Zerbst, 4 July 1667), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Zerbst.",
+     "He was the only son of Rudolph, Prince of Anhalt-Zerbst, by his second wife Magdalene, daughter of John VII, Count of Oldenburg."
+    ]
+   ],
+   [
+    "Albert II, Prince of Anhalt-Zerbst",
+    [
+     "Albert II, Prince of Anhalt- Zerbst( died 17 July 1362) was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the third son of Albert I, Prince of Anhalt- Zerbst, but the eldest child born to his second wife Agnes, daughter of Conrad, Margrave of Brandenburg- Stendal."
+    ]
+   ],
+   [
+    "John II, Prince of Anhalt-Zerbst",
+    [
+     "John II, Prince of Anhalt- Zerbst( died 11 April 1382) was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the youngest son of Albert II, Prince of Anhalt- Zerbst, by his second wife Beatrix, daughter of Rudolf I, Elector of Saxony and Duke of Saxe- Wittemberg."
+    ]
+   ],
+   [
+    "John V, Prince of Anhalt-Zerbst",
+    [
+     "John V of Anhalt-Zerbst (Dessau, 4 September 1504 – Zerbst, 4 February 1551), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau.",
+     "From 1544, he assumed rule of the re-created principality of Anhalt-Zerbst.",
+     "John was the second (but eldest surviving) son of Ernest I, Prince of Anhalt-Dessau, by his wife Margarete, daughter of Henry I, Duke of Münsterberg-Oels, and granddaughter of George of Poděbrady, King of Bohemia."
+    ]
+   ],
+   [
+    "Ernest I, Prince of Anhalt-Dessau",
+    [
+     "Ernest I, Prince of Anhalt-Dessau (died Dessau, 12 June 1516), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau.",
+     "He was the second son of George I, Prince of Anhalt-Dessau, yet the first born by his fourth wife Anna, daughter of Albert VIII, Count of Lindow-Ruppin."
+    ]
+   ],
+   [
+    "Waldemar III, Prince of Anhalt-Zerbst",
+    [
+     "Waldemar III, Prince of Anhalt- Zerbst( died 1391) was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the youngest son of John II, Prince of Anhalt- Zerbst, by his wife Elisabeth, daughter of John I, Count of Henneberg- Schleusingen."
+    ]
+   ],
+   [
+    "Karl I, Prince of Anhalt-Zerbst",
+    [
+     "Karl I of Anhalt- Zerbst( 17 November 1534 in Dessau – 4 May 1561 in Zerbst), was a German prince of the House of Ascania and ruler of the principality of Anhalt- Zerbst.",
+     "He was the eldest son of John V, Prince of Anhalt- Zerbst, by his wife Margaret, daughter of Joachim I Nestor, Elector of Brandenburg."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "John V, Prince of Anhalt-Zerbst",
+    2
+   ],
+   [
+    "Ernest I, Prince of Anhalt-Dessau",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "John V of Anhalt-Zerbst",
+    "father",
+    "Ernest I, Prince of Anhalt-Dessau"
+   ],
+   [
+    "Ernest I, Prince of Anhalt-Dessau",
+    "date of death",
+    "12 June 1516"
+   ]
+  ],
+  "answer": "12 June 1516"
+ },
+ {
+  "_id": "0cd3bdea0bde11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?",
+  "context": [
+   [
+    "Michael Govan",
+    [
+     "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006.",
+     "Prior to this, Govan worked as the director of the Dia Art Foundation in New York City."
+    ]
+   ],
+   [
+    "Peter Levin",
+    [
+     "Peter Levin is an American director of film, television and theatre."
+    ]
+   ],
+   [
+    "John Donatich",
+    [
+     "John Donatich is the Director of Yale University Press."
+    ]
+   ],
+   [
+    "Dana Blankstein",
+    [
+     "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television.",
+     "She is a film director, and an Israeli culture entrepreneur."
+    ]
+   ],
+   [
+    "Ian Barry (director)",
+    [
+     "Ian Barry is an Australian director of film and TV."
+    ]
+   ],
+   [
+    "Wunna",
+    [
+     "Maung Wunna  was a two-time Myanmar Motion Picture Academy Awards-winning Burmese director and writer.",
+     "He came from a family heavily involved in the entertainment industry—his father Thadu was a director and his brother Thu Maung was a prominent singer and actor and Min Lu was a reputed satirist.",
+     "Maung Wunna died of lung cancer in 2011."
+    ]
+   ],
+   [
+    "Wearing Velvet Slippers under a Golden Umbrella",
+    [
+     "Wearing Velvet Slippers under a Golden Umbrella (Pronounced as Katipa phanat see shwe htee hsaung) is a 1970 Burmese film directed by Maung Wunna starring Myat Mon, Myat Lay and Thet Naung.",
+     "The film was Maung Wunna's first feature as director and he also wrote the screenplay, based on the novel of the same name by Maung Thara."
+    ]
+   ],
+   [
+    "John Farrell (businessman)",
+    [
+     "John Farrell is the director of YouTube in Latin America."
+    ]
+   ],
+   [
+    "Etan Boritzer",
+    [
+     "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989.",
+     "His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals.",
+     "Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views.",
+     "The other current books in the\" What is?\" series include",
+     "What is Love?,",
+     "What is Death?,",
+     "What is Beautiful?,",
+     "What is Funny?,",
+     "What is Right?,",
+     "What is Peace?,",
+     "What is Money?,",
+     "What is Dreaming?,",
+     "What is a Friend?,",
+     "What is True?,",
+     "What is a Family?,",
+     "What is a Feeling?\"",
+     "The series is now also translated into 15 languages.",
+     "Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy.",
+     "His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education.",
+     "Boritzer now lives in Venice, California and maintains his publishing office there also.",
+     "He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs.",
+     "Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally.",
+     "He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\""
+    ]
+   ],
+   [
+    "All in the Family (film)",
+    [
+     "All in the Family is a 1975 Hong Kong adult comedy film, directed by Mu Zhu and produced under Golden Harvest productions.",
+     "Despite starring in the film, Jackie Chan does not appear until 1 hour into the movie."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Wearing Velvet Slippers under a Golden Umbrella",
+    0
+   ],
+   [
+    "Wunna",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Wearing Velvet Slippers under a Golden Umbrella",
+    "director",
+    "Wunna"
+   ],
+   [
+    "Wunna",
+    "award received",
+    "Myanmar Motion Picture Academy Awards"
+   ]
+  ],
+  "answer": "Myanmar Motion Picture Academy Awards"
+ },
+ {
+  "_id": "f9dcb4a60bda11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Where was the director of film Ronnie Rocket born?",
+  "context": [
+   [
+    "Jason Moore (director)",
+    [
+     "Jason Moore( born October 22, 1970) is an American director of film, theatre and television."
+    ]
+   ],
+   [
+    "Jesse E. Hobson",
+    [
+     "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955.",
+     "Prior to SRI, he was the director of the Armour Research Foundation."
+    ]
+   ],
+   [
+    "Brian Kennedy (gallery director)",
+    [
+     "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States.",
+     "He is currently the director of the Peabody Essex Museum.",
+     "He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019.",
+     "He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+    ]
+   ],
+   [
+    "Dana Blankstein",
+    [
+     "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television.",
+     "She is a film director, and an Israeli culture entrepreneur."
+    ]
+   ],
+   [
+    "S. N. Mathur",
+    [
+     "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980.",
+     "He was also the Director General of Police in Punjab."
+    ]
+   ],
+   [
+    "Olav Aaraas",
+    [
+     "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director.",
+     "He was born in Fredrikstad.",
+     "From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History.",
+     "In 2010 he was decorated with the Royal Norwegian Order of St. Olav."
+    ]
+   ],
+   [
+    "David Lynch",
+    [
+     "David Keith Lynch (born January 20, 1946) is an American filmmaker, painter, musician, actor, and photographer.",
+     "He is best known for films such as \"Eraserhead\" (1977), \"Blue Velvet\" (1986) and \"Mulholland Drive\" (2001), often regarded by critics as among the best films of their respective decades, and for his successful 1990–91 television series \"Twin Peaks\", which led to him being labeled \"the first popular Surrealist\" by noted film critic Pauline Kael.",
+     "A recipient of an Academy Honorary Award in 2019, he has received three Academy Award nominations for Best Director, and has won France's César Award for Best Foreign Film twice, as well as the Palme d'Or at the Cannes Film Festival and a Golden Lion award for lifetime achievement at the Venice Film Festival.",
+     "He has been described by \"The Guardian\" as \"the most important director of this era\", while AllMovie called him \"the Renaissance man of modern American filmmaking\".",
+     "Born to a middle-class family in Missoula, Montana, Lynch spent his childhood traveling around the United States before he studied painting at the Pennsylvania Academy of Fine Arts in Philadelphia, where he first made the transition to producing short films.",
+     "He moved to Los Angeles, where he produced his first motion picture, the surrealist horror film \"Eraserhead\" (1977).",
+     "After \"Eraserhead\" became a success on the midnight movie circuit, Lynch was employed to direct the biographical film \"The Elephant Man\" (1980), from which he gained mainstream success.",
+     "He was then employed by the De Laurentiis Entertainment Group and proceeded to make two films: the science-fiction epic \"Dune\" (1984), which proved to be a critical and commercial failure, and then a neo-noir mystery film \"Blue Velvet\" (1986), which stirred controversy over its violence but later grew in critical reputation.",
+     "Next, Lynch created his own television series with Mark Frost, the popular murder mystery entitled \"Twin Peaks\" (1990–1991).",
+     "He also created a cinematic prequel,  (1992), a road film \"Wild at Heart\" (1990) and a family film \"The Straight Story\" (1999) in the same period.",
+     "Turning further towards surrealist filmmaking, three of his subsequent films operated on dream logic non-linear narrative structures: \"Lost Highway\" (1997), \"Mulholland Drive\" (2001), and \"Inland Empire\" (2006).",
+     "Meanwhile, Lynch embraced the Internet as a medium, producing several web-based shows, such as the animated \"DumbLand\" (2002) and the surreal sitcom \"Rabbits\" (2002).",
+     "Lynch and Frost reunited for a third season of \"Twin Peaks\", airing in on Showtime in 2017.",
+     "Lynch co-wrote and directed every episode, as well as reprising his role as Gordon Cole.",
+     "Lynch's other artistic endeavours include: his work as a musician, encompassing three studio albums—\"BlueBOB\" (2001), \"Crazy Clown Time\" (2011) and \"The Big Dream\" (",
+     "2013)—as well as music and sound design for a variety of his films; painting and photography; writing three books—\"Images\" (1994), \"Catching the Big Fish\" (2006), and \"Room to Dream\" (2018); and directing several music videos and advertisements, including the Dior promotional film \"Lady Blue Shanghai\" (2006).",
+     "An avid practitioner of Transcendental Meditation (TM), Lynch founded the David Lynch Foundation in 2005, which sought to fund the teaching of TM in schools and has since widened its scope to other at-risk populations, including the homeless, veterans and refugees.",
+     "In 2019, he received an Academy Honorary Award; his first Oscar win."
+    ]
+   ],
+   [
+    "Ronnie Rocket",
+    [
+     "Ronnie Rocket is an unfinished film project written by David Lynch, who also intended to direct it.",
+     "Begun after the success of Lynch's 1977 film \"EraserheadRonnie Rocket\" was shelved after Lynch felt he would be unable to find financial backing for the project.",
+     "He instead sought out an existing script on which to base his next film, settling on what would become 1980's \"The Elephant Man\".",
+     "\"Ronnie Rocket\" was to feature many of the elements which have since come to be seen as Lynch's hallmarks; including industrial art direction, 1950s popular culture and physical deformity.",
+     "The script featured a three-foot tall man with control over electricity; Lynch first met Michael J. Anderson when tentatively casting for this role, and later cast him in \"Twin Peaks\" and \"Mulholland Drive\" as a result."
+    ]
+   ],
+   [
+    "Ian Barry (director)",
+    [
+     "Ian Barry is an Australian director of film and TV."
+    ]
+   ],
+   [
+    "Peter Levin",
+    [
+     "Peter Levin is an American director of film, television and theatre."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Ronnie Rocket",
+    0
+   ],
+   [
+    "David Lynch",
+    4
+   ]
+  ],
+  "evidences": [
+   [
+    "Ronnie Rocket",
+    "director",
+    "David Lynch"
+   ],
+   [
+    "David Lynch",
+    "place of birth",
+    "Missoula, Montana"
+   ]
+  ],
+  "answer": "Missoula, Montana"
+ },
+ {
+  "_id": "8981e1ce0bb011ebab90acde48001122",
+  "type": "inference",
+  "question": "Who is Charles Bretagne Marie De La Trémoille's paternal grandfather?",
+  "context": [
+   [
+    "Charles Armand René de La Trémoille",
+    [
+     "Charles Armand René de La Trémoille (14 January 1708, in Paris – 23 May 1741),",
+     "6th duc de Thouars, was the son of Charles Louis Bretagne de La Trémoille and his wife, Marie Madeleine Motier de la Fayette.",
+     "La Trémoille was a French soldier and president of the States of Brittany.",
+     "He joined the military at a young age and became a colonel of the Champagne regiment at the age of eighteen.",
+     "Later, he became governor of Île-de-France.",
+     "He distinguished himself in the battle of Guastalla, in Italy, and was named shortly thereafter sergeant of the armies of the king.",
+     "La Trémoille was the author of some works and was elected a member of the Académie française on 13 February 1738.",
+     "On 29 January 1725 he married his cousin Marie Hortense de La Tour d'Auvergne, the daughter of Marie Armande Victoire de la Trémoïlle (1677–1717) and Emmanuel-Théodose de La Tour d'Auvergne, duc de Bouillon (1668–1730).",
+     "Marie Hortense, like her husband was a granddaughter of Charles Belgique Hollande de La Trémoille.",
+     "From this union was born a son:",
+     "Jean Bretagne Charles de La Trémoille and a daughter who died in infancy."
+    ]
+   ],
+   [
+    "Charles Bretagne Marie de La Trémoille",
+    [
+     "Prince Charles Bretagne Marie de La Trémoille (24 March 1764 – 10 November 1839), 8th Duke of Thouars, 7th Duke of La Trémoïlle, 10th prince de Tarente, 14th prince de Talmond and 14th Count of Laval, was a French aristocrat and soldier; he was the son of Jean Bretagne Charles de La Trémoille and his wife Princess Marie-Maximilienne of Salm-Kyrburg."
+    ]
+   ],
+   [
+    "Henri Charles de La Trémoille",
+    [
+     "Henri Charles de La Trémoille( 17 December 1620 – 14 September 1672) was a French military commander.",
+     "He the son of Henry de La Trémoille, duc of Thouars and of La Trémoille, and his wife, Marie de La Tour d'Auvergne.",
+     "In 1628, La Trémoille's father, Henri III of Trémoïlle, converted himself and his children to Catholicism, but La Trémoille's mother convinced him to reconvert to Protestantism when he reached the age of majority.",
+     "In 1638, he joined the army of his uncle, Frederick Henry, Prince of Orange.",
+     "In 1648, he married the Calvinist Émilie of Hesse- Kassel, the daughter of William V of Hesse- Kassel( or Hesse- Cassel).",
+     "They had five children, including Charles Belgique, his heir, and Charlotte Amélie de la Trémoille.",
+     "In October 1651, during the Fronde, he came out against Cardinal Mazarin and supported Condé openly.",
+     "As a result, in 1656 he was imprisoned in Amiens.",
+     "La Trémoille's mother obtained his release after several months of imprisonment.",
+     "He was then relegated in Poitou then turned over to serve in Holland.",
+     "In 1668, he returned from Holland to manage the affairs of the duchy of Thouars, his father being weakened by the gout, and he again re-converted to Catholicism, taking away the children from his wife who fled to the Netherlands.",
+     "He died two years before his father in 1672; it was thus his elder son, Charles, who succeeded as the fourth duke of Thouars."
+    ]
+   ],
+   [
+    "Claude de La Trémoille",
+    [
+     "Claude de La Trémoille, 2nd Duke of Thouars (1566 – 25 October 1604) was a sixteenth-century French nobleman of the La Tremoille family.",
+     "He was the son of Louis III de La Trémoille and his wife, Jeanne de Montmorency.",
+     "King Henry IV of France had been friendly with La Trémoille when he was King of Navarre, but kept him in a subordinate position once he became King of France, preferring La Trémoille's cousin, Henry de La Tour d'Auvergne, the Viscount of Turenne.",
+     "In 1587, La Trémoille converted to Protestantism.",
+     "He fought for Henry IV at the battle of Coutras and also at Ivry, and was rewarded by elevation to the peerage, as Duke of Thouars, in 1595.",
+     "This new title, however, made La Trémoille lose more money than it earned him.",
+     "In 1598, Turenne proposed to his sister-in-law Charlotte-Brabantine to marry La Trémoille.",
+     "Thanks to her relations with the houses of Orange and Bouillon, Charlotte-Brabantine played an important part in the French Protestant diplomacy.",
+     "They had four children: Henry; Charlotte, who married James Stanley, Earl of Derby; Élisabeth (1601–1604); and Frédéric (1602–1642) comte de Laval.",
+     "In 1602, Charlotte-Brabantine dissuaded her husband from engaging in the conspiracy of Biron and encouraged him to lend allegiance to the king.",
+     "He died in 1604."
+    ]
+   ],
+   [
+    "Charlotte de La Trémoille",
+    [
+     "\" Not to be confused with Charlotte Stanley, Countess of Derby.\"",
+     "Princess Charlotte de La Trémoille( Charlotte Marie Clotilde de La Trémoille; 20 November 1892 – 27 October 1971), 12th Duchess of Thouars, 11th Duchess of La Trémoïlle, 14th Princess de Tarente, 18th princess de Talmond and 18th Countess of Laval was a French noblewoman and the daughter of Prince Louis Charles Marie de La Trémoille and his wife, Hélène Marie Léonie Pillet- Will."
+    ]
+   ],
+   [
+    "Jean Bretagne Charles de La Trémoille",
+    [
+     "Prince Jean-Bretagne-Charles de La Trémoille (5 February 1737 – 19 May 1792), 7th Duke of Thouars, was a French soldier and the son of Charles Armand René de La Trémoille and his wife, Marie Hortense de La Tour d'Auvergne of Bouillon."
+    ]
+   ],
+   [
+    "Louis Charles de La Trémoille",
+    [
+     "Prince Louis Charles de La Trémoille( 26 October 1838 – 4 July 1911), 9th Duke of Thouars, 8th Duke of La Trémoïlle, 11th prince de Tarente, 15th prince de Talmond and 15th Count of Laval was a French aristocrat and the son of Charles Bretagne Marie de La Trémoille and his third wife, Valentine Eugénie Joséphine Walsh de Serrant.",
+     "Louis Charles was also an archivist, bibliophile and also collector."
+    ]
+   ],
+   [
+    "François II de La Trémoille",
+    [
+     "François de La Trémoille( 1505 – 1541) was a French nobleman of the La Tremoille family.",
+     "He was the son of Charles I de la Trémoille( killed in 1515 at the battle of Marignano) and of Louise de Coëtivy."
+    ]
+   ],
+   [
+    "Henri de La Trémoille",
+    [
+     "Henri de La Trémoille( 22 December 1598 – 21 January 1674) was the 3rd Duke of Thouars, 2nd Duke of La Tremoille, and Prince of Talmond and Taranto.",
+     "He was the son of Claude de La Trémoille and his wife, Charlotte Brabantina of Nassau, and a descendant of the medieval general Louis de La Trémoille."
+    ]
+   ],
+   [
+    "Marie Charlotte de La Trémoille",
+    [
+     "Marie Charlotte de La Trémoille( 26 January 1632 – 24 August 1682). was a French noblewoman member of the House of La Trémoille and by marriage Duchess of Saxe- Jena.",
+     "Born in Thouars, she was the fifth of six children born from the marriage of Henri III de La Trémoille, 3rd Duke of Thouars, 2nd Duke of La Tremoille, Prince of Talmond and Taranto, and Marie de La Tour d'Auvergne."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Charles Bretagne Marie de La Trémoille",
+    0
+   ],
+   [
+    "Jean Bretagne Charles de La Trémoille",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Charles Bretagne Marie de La Trémoille",
+    "father",
+    "Jean Bretagne Charles de La Trémoille"
+   ],
+   [
+    "Jean Bretagne Charles de La Trémoille",
+    "father",
+    "Charles Armand René de La Trémoille"
+   ]
+  ],
+  "answer": "Charles Armand René de La Trémoille"
+ },
+ {
+  "_id": "019bed300bde11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Where was the father of Ștefan I. Nenițescu born?",
+  "context": [
+   [
+    "Takayama Tomoteru",
+    [
+     "He was the father of Takayama Ukon, and was a Kirishitan."
+    ]
+   ],
+   [
+    "Anacyndaraxes",
+    [
+     "Anacyndaraxes was the father of Sardanapalus, king of Assyria."
+    ]
+   ],
+   [
+    "Inoue Masaru (bureaucrat)",
+    [
+     "Viscount was the first Director of Railways in Japan and is known as the\" father of the Japanese railways\"."
+    ]
+   ],
+   [
+    "Cleomenes II",
+    [
+     "Cleomenes II( died 309 BC) was Agiad King of Sparta from 369 to 309 BC.",
+     "The son of Cleombrotus I, he succeeded his brother Agesipolis II.",
+     "He was the father of Acrotatus I, the father of Areus I, and of Cleonymus, the father of Leonidas II."
+    ]
+   ],
+   [
+    "Eystein Glumra",
+    [
+     "Eystein Glumra(\" Eystein the Noisy\" or\" Eystein the Clatterer\"; Modern Norwegian\" Øystein Glumra\") also known as Eystein Ivarsson, was reputedly a petty king on the west coast of Norway, during the 9th Century.",
+     "The\" Heimskringla\" saga states that Eystein Glumra was the father of Rognvald Eysteinsson and Sigurd Eysteinsson:\" The first earl in the Orkney Islands was called Sigurd, who was a son of Eystein Glumra, and brother of Ragnvald earl of More.",
+     "After Sigurd, his son Guthorm was earl for one year.",
+     "After him Torf- Einar, a son of Ragnvald, took the earldom, and was long earl, and was a man of great power\".",
+     "According to the\" Orkneyinga Saga\", Eystein Glumra was the son of Ivar the jarl of Uplanders and grandson of Halfdan the Old.",
+     "\" Orkneyinga Saga\" also named Eystein Glumra as the father of Rognvald Eysteinsson:\" Heiti, Gorr ’s son, was father of Sveiði the sea-king,[ who was] the father of Halfdan the old,[ who was] the father of Ivar the Uplanders ’ earl,[ who was] the father of Eystein the noisy,[ who was] the father of earl Rognvald the mighty and wise in council\".",
+     "Linnea Hartsuyker's books",
+     "The Half- drowned King and The Sea Queen cover the lives of Eystein's children."
+    ]
+   ],
+   [
+    "Arthur Beauchamp",
+    [
+     "Arthur Beauchamp( 1827 – 28 April 1910) was a Member of Parliament from New Zealand.",
+     "He is remembered as the father of Harold Beauchamp, who rose to fame as chairman of the Bank of New Zealand and was the father of writer Katherine Mansfield."
+    ]
+   ],
+   [
+    "Ioan S. Nenițescu",
+    [
+     "Ioan S. Nenițescu (April 11, 1854–February 23, 1901) was a Romanian poet and playwright.",
+     "Born in Galați, his parents were Ștefan Vasiliu, a manual laborer, and his wife Elisabeta (\"née\" Zaharia).",
+     "After completing the Alexandru Ioan",
+     "I commercial school in his native town",
+     ", he finished high school, passing the exit examination at Iași.",
+     "He also audited courses at Iași University's literature faculty.",
+     "Nenițescu attended an officers' school, volunteered in the Romanian War of Independence and was wounded at Grivitsa.",
+     "He then studied at the philosophy faculty of Berlin University, taking a doctorate in 1887 at Leipzig University with a thesis on Baruch Spinoza.",
+     "He worked as a schoolteacher and inspector in Bucharest.",
+     "He traveled south of the Danube, a trip that resulted in an ample \"ethnic and statistical study of the AromaniansDe la românii din Turcia Europeană\", 1895).",
+     "He sat in the Assembly of Deputies for his native Covurlui County, and also served as prefect of Tulcea County in the Dobruja region.",
+     "Nenițescu's first work appeared in the Galați newspaper \"Gardistul civic\".",
+     "A member of \"Junimea\", he published numerous poems in its organ \"Convorbiri Literare\".",
+     "He also contributed to \"AlbinaAmicul copiilorRevista nouăRomânul literarȘezătoarea\" and \"Ziarul presei\".",
+     "While in Bucharest from 1884 to 1888, he published \"Țara nouă\" magazine, mainly submitting articles on pedagogy, ethics and sociology.",
+     "His first book was the 1880 poetry volume \"Flori de primăvară\", followed by \"Șoimii de la Războieni\" (1882) and \"Pui de lei\" (1891).",
+     "Of the plays he wrote, the only one he published was \"Radu de la Afumați\" (1897).",
+     "In 1896, Nenițescu was elected a corresponding member of the Romanian Academy.",
+     "He died in Buzău.",
+     "His son Ștefan also became a poet."
+    ]
+   ],
+   [
+    "John Templeton (botanist)",
+    [
+     "John Templeton( 1766–1825) was an early Irish naturalist and botanist.",
+     "He is often referred to as the\" Father of Irish Botany\".",
+     "He was the father of naturalist, artist and entomologist Robert Templeton."
+    ]
+   ],
+   [
+    "Obata Toramori",
+    [
+     "He was the father of Obata Masamori."
+    ]
+   ],
+   [
+    "Ștefan I. Nenițescu",
+    [
+     "Ștefan I. Nenițescu (October 8, 1897–October 1979) was a Romanian poet and aesthetician.",
+     "Born in Bucharest, his parents were the poet Ioan S. Nenițescu and his wife Elena (\"née\" Ștefan).",
+     "He attended Sapienza University of Rome from 1920, as well as the literature and philosophy department of Bucharest University.",
+     "At first an assistant professor of aesthetics, he later became an associate professor at Bucharest.",
+     "He served as press secretary and later economic adviser to the Romanian legation in The Hague.",
+     "Nenițescu's first publication was a 1915 article about William Shakespeare that appeared in \"Noua revistă română\".",
+     "His first book of poetry, \"Denii\" (1919), was followed by \"Vrajă\" (1923) and \"Ode italice\" (1925).",
+     "His single volume of theatre was \"Trei mistere\" (1922).",
+     "From 1924, he wrote for \"Gândirea\", and was a founding member of Romania's PEN Club.",
+     "He also contributed poetry and art criticism to \"Convorbiri LiterareIdeea europeanăVremeaUniversul literarViața RomâneascăAdevărul\" and \"Arta plastică\".",
+     "In 1925, Nenițescu published a treatise, \"Istoria artei ca filosofie a istoriei\".",
+     "He translated from Benedetto Croce (\"Aesthetic\", 1922) and Niccolò Machiavelli (\"The Mandrake\", 1926).",
+     "Initially, Nenițescu's poetry was discursive and religious, in line with the \"Gândirist\" current.",
+     "His verse became progressively more hermetic, as can be seen in the anthology volume",
+     "\"Ani\" (1973).",
+     "Including texts published in the 1940s and '50s, it reveals the intellectualized lyric verse of an eminently classical nature."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Ștefan I. Nenițescu",
+    1
+   ],
+   [
+    "Ioan S. Nenițescu",
+    1
+   ]
+  ],
+  "evidences": [
+   [
+    "Ștefan I. Nenițescu",
+    "father",
+    "Ioan S. Nenițescu"
+   ],
+   [
+    "Ioan S. Nenițescu",
+    "place of birth",
+    "Galați"
+   ]
+  ],
+  "answer": "Galați"
+ },
+ {
+  "_id": "a7b9672009c311ebbdb0ac1f6bf848b6",
+  "type": "comparison",
+  "question": "Are North Marion High School (Oregon) and Seoul High School both located in the same country?",
+  "context": [
+   [
+    "Calloway County High School",
+    [
+     "Calloway County",
+     "High School is a public high school located in Murray, Kentucky.",
+     "The school was formed from the consolidation of six high schools from across the county: Hazel High School, Lynn Grove High School, Kirksey High School, Almo High School, New Concord High School, and Faxon High School."
+    ]
+   ],
+   [
+    "Marion High School (Kansas)",
+    [
+     "Marion High School is a public high school in Marion, Kansas, USA.",
+     "It is one of three schools operated by Marion USD 408, and is the sole high school in the district."
+    ]
+   ],
+   [
+    "North Marion High School (West Virginia)",
+    [
+     "North Marion High School is a public Double A (\"AA\") high school in the U.S. state of West Virginia, with a current enrollment of 851 students.",
+     "North Marion High School is located approximately 4 miles from Farmington, West Virginia on US Route 250 north.",
+     "While it is closer to the city of Mannington, West Virginia, and is often considered to be located in Rachel, West Virginia, the school mailing address is Farmington.",
+     "Rachel is a small coal mining community located adjacent to the school, and is an unincorporated municipality.",
+     "North Marion High School is represented as \"Grantville High School\" in the popular alternative history novel \"1632\" by writer Eric Flint.",
+     "The novel is set in the fictional town of Grantville, which is based on the real town and surroundings of Mannington."
+    ]
+   ],
+   [
+    "Creswell High School (Oregon)",
+    [
+     "Creswell High School( Oregon) is a public high school in Creswell, Oregon, United States."
+    ]
+   ],
+   [
+    "Wheeling High School",
+    [
+     "Wheeling High School, or WHS, is a public four- year high school located in Wheeling, Illinois, a northwest suburb of Chicago, Illinois, in the United States.",
+     "It is part of Township High School District 214, which also includes Buffalo Grove High School, Elk Grove High School, John Hersey High School, Prospect High School, and Rolling Meadows High School.",
+     "The school serves the communities of Wheeling, Prospect Heights, Arlington Heights, and Buffalo Grove and Mount Prospect.",
+     "\" U.S. News& World Report\" ranked WHS as the 6th high school in District 214, the 90th high school in Illinois, and as the 2,448th high school in the United States in 2019."
+    ]
+   ],
+   [
+    "Ottawa High School and Junior High School",
+    [
+     "The Ottawa High School and Junior High School, located at 526 and 506 S. Main St. respectively, are the historic former high school and junior high school in Ottawa, Kansas.",
+     "The high school was built in 1917, while the junior high school was built from 1927 to 1928; an enclosed hallway connecting the two buildings was built with the junior high school.",
+     "The high school was the first school in Ottawa to be built solely as a high school and the eighth school built in Ottawa.",
+     "George P. Washburn& Son designed the high school in the Collegiate Gothic style.",
+     "When the junior high school was constructed ten years later, the firm, by then known as Washburn& Stookey, designed the building in the same style as the high school.",
+     "In 1966, a new high school was built for the upper three classes of students; the freshman class moved to the building in 1976, and the old high school and junior high school became a middle school.",
+     "The two buildings were connected by a multi-purpose room in the same year.",
+     "The middle school later vacated the building.",
+     "The school was added to the National Register of Historic Places on October 6, 2000."
+    ]
+   ],
+   [
+    "East High School (Denver)",
+    [
+     "Denver East High School is a public high school located in the City Park neighborhood on the east side of Denver, Colorado, United States.",
+     "It is part of the Denver Public Schools system, and is one of four original high schools in Denver.",
+     "The other three are North High School, West High School, and South High School."
+    ]
+   ],
+   [
+    "Seoul High School",
+    [
+     "Seoul High School( Hangul: 서울고등학교) is a public high school located in the heart of Seoul, South Korea."
+    ]
+   ],
+   [
+    "Marion High School (Indiana)",
+    [
+     "Marion High School is a high school in Marion, Indiana with more than 1,000 students."
+    ]
+   ],
+   [
+    "North Marion High School (Oregon)",
+    [
+     "North Marion High School is a public high school in Aurora, Oregon, United States.",
+     "The school is part of the North Marion School District with all four schools being located on the same campus.",
+     "The school draws students from the cities of Aurora, Hubbard, and Donald as well as the communities of Broadacres and Butteville."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "North Marion High School (Oregon)",
+    0
+   ],
+   [
+    "Seoul High School",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "North Marion High School (Oregon)",
+    "country",
+    "United States"
+   ],
+   [
+    "Seoul High School",
+    "country",
+    "South Korea"
+   ]
+  ],
+  "answer": "no"
+ },
+ {
+  "_id": "298f23b8088a11ebbd6eac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director who was born later, El Extraño Viaje or Love In Pawn?",
+  "context": [
+   [
+    "W. Augustus Barratt",
+    [
+     "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician."
+    ]
+   ],
+   [
+    "El extraño viaje",
+    [
+     "El extraño viaje is a 1964 Spanish black drama film directed by Fernando Fernán Gómez.",
+     "Famous film director Jess Franco acts as the brother of the protagonist.",
+     "The film was a huge flop on its limited release.",
+     "It was voted seventh best Spanish film by professionals and critics in 1996 Spanish cinema centenary."
+    ]
+   ],
+   [
+    "Luck in Pawn",
+    [
+     "Luck in Pawn is a 1919 American silent romance film starring Marguerite Clark and directed by Walter Edwards.",
+     "It was produced by Famous Players- Lasky and distributed through Paramount Pictures.",
+     "The film is based on a play by Marvin Taylor,\" Luck in Pawn\", and ran briefly on Broadway in 1919.",
+     "The film is listed as being preserved at the Library of Congress and New Zealand Film Archive."
+    ]
+   ],
+   [
+    "The Strange Case of the Man and the Beast",
+    [
+     "The Strange Case of the Man and the Beast( Spanish: El Extraño caso del hombre y la bestia) is a 1951 Argentine film."
+    ]
+   ],
+   [
+    "Love in Pawn",
+    [
+     "Love in Pawn is a 1953 British comedy film directed by Charles Saunders and starring Bernard Braden and Barbara Kelly."
+    ]
+   ],
+   [
+    "Rafaela Aparicio",
+    [
+     "Rafaela",
+     "Díaz Valiente( 9 April 1906 – 9 June 1996) better known as Rafaela Aparicio was a famous Spanish film and theatre actress.",
+     "She made more than 100 films.",
+     "The most remembered are Carlos Saura's\" Anna and the WolvesMama Turns 100\" and Fernando Fernán Gómez's\" El extraño viaje\".",
+     "She died of a stroke in Madrid in a retirement home."
+    ]
+   ],
+   [
+    "A Lover in Pawn",
+    [
+     "A Lover in Pawn is a 1920 Swedish silent drama film directed by Victor Sjöström."
+    ]
+   ],
+   [
+    "Fernando Fernán Gómez",
+    [
+     "Fernando Fernández Gómez (28 August 1921 – 21 November 2007) better known as Fernando Fernán-Gómez was a Spanish actor, screenwriter, film director, theater director and member of the Royal Spanish Academy for seven years.",
+     "He was born in Argentina while his mother, Spanish actress Carola Fernán-Gómez, was making a tour in Latin America.",
+     "He would later use her surname for his stage name when he moved to Spain in 1924.",
+     "After the Spanish Civil War he began to study law but interrupted his studies to work in theater.",
+     "In 1942 he began to act in movies but also continued working on plays.",
+     "He formed his own theater company and received awards for directing and writing.",
+     "In the 1950s he began to direct movies, including the film of his novel, \"El viaje a ninguna parte\".",
+     "He received praise for his 1958 comedy \"La vida por delante\", which led to a sequel, \"La vida alrededor\".",
+     "In 1977, he won the Silver Bear for Best Actor at the 27th Berlin International Film Festival for his role in \"The Anchorite\".",
+     "He won the award again at the 35th Berlin International Film Festival in 1985 for his role in \"Stico\" and finally the Honorary Golden Bear at the 55th Berlin International Film Festival in 2005.",
+     "Having been very much in demand during the 1970s and 1980s, the 1990s was a less active period for him, but towards the end of his life, he enjoyed something of a revival, featuring in three major projects: \"Todo sobre mi madrePlenilunio\", and a starring role in the hit \"La lengua de las mariposas\".",
+     "He married María Dolores Pradera in 1945; they divorced in 1959.",
+     "He married Emma Cohen in 2000.",
+     "Fernando Fernán Gómez died in Madrid on 21 November 2007 from a heart failure.",
+     "As he was a lifelong anarchist, his coffin was covered in a black and red anarchist flag."
+    ]
+   ],
+   [
+    "El extraño caso de la mujer asesinada",
+    [
+     "El Extraño caso de la mujer asesinada is a 1949 Argentine film."
+    ]
+   ],
+   [
+    "Charles Saunders (director)",
+    [
+     "Charles Joel Saunders (8 April 1904 – April 1997) was an English film director and screenwriter who started in the industry as a film editor, and who also contributed to television.",
+     "He was the brother of the theatrical producer Sir Peter Saunders."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "El extraño viaje",
+    0
+   ],
+   [
+    "Love in Pawn",
+    0
+   ],
+   [
+    "Fernando Fernán Gómez",
+    0
+   ],
+   [
+    "Charles Saunders (director)",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "El extraño viaje",
+    "director",
+    "Fernando Fernán Gómez"
+   ],
+   [
+    "Love in Pawn",
+    "director",
+    "Charles Saunders"
+   ],
+   [
+    "Fernando Fernán Gómez",
+    "date of birth",
+    "28 August 1921"
+   ],
+   [
+    "Charles Saunders (director)",
+    "date of birth",
+    "8 April 1904"
+   ]
+  ],
+  "answer": "El Extraño Viaje"
+ },
+ {
+  "_id": "2ec440560bb011ebab90acde48001122",
+  "type": "inference",
+  "question": "Who is the maternal grandfather of Antiochus X Eusebes?",
+  "context": [
+   [
+    "Fujiwara no Nagara",
+    [
+     ", also known as Fujiwara no Nagayoshi, was a Japanese statesman, courtier and politician of the early Heian period.",
+     "He was the grandfather of Emperor Yōzei."
+    ]
+   ],
+   [
+    "Kaya Alp",
+    [
+     "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I."
+    ]
+   ],
+   [
+    "Guillaume Wittouck",
+    [
+     "Guillaume Wittouck( 1749- 1829) was a Belgian lawyer and High Magistrate.",
+     "He was the Grandfather of industrialist Paul Wittouck."
+    ]
+   ],
+   [
+    "Antiochus X Eusebes",
+    [
+     "Antiochus X Eusebes Philopator (–92 or 88 BC) was a Hellenistic Seleucid monarch who reigned as the King of Syria between 95 BC and 92 BC or 89/88 BC (224 SE (Seleucid year)).",
+     "He was the son of Antiochus IX and perhaps his Egyptian wife Cleopatra IV.",
+     "He lived in a period during which there was a general disintegration of Seleucid Syria characterized by civil wars, foreign interference by Ptolemaic Egypt and incursions by the Parthians.",
+     "Antiochus IX was killed in 95BC at the hands of Seleucus VI, the son of his half-brother and rival Antiochus VIII.",
+     "Antiochus X then went to the city of Aradus where he declared himself king.",
+     "He avenged his father by defeating Seleucus VI, who was eventually killed.",
+     "Antiochus X did not enjoy a stable reign as he had to face three of Seleucus VI's brothers,",
+     "Antiochus XI, Philip I and Demetrius III.",
+     "Antiochus XI defeated AntiochusX and expelled him from the capital Antioch in 93 BC.",
+     "A few months later, AntiochusX regained his position and killed Antiochus XI.",
+     "This led to both Philip I and Demetrius III becoming involved.",
+     "The civil war continued but its final outcome is uncertain due to the contradictions between different ancient historians' accounts.",
+     "AntiochusX married his stepmother, Antiochus IX's widow Cleopatra Selene, and had several children with her, including a future king Antiochus XIII.",
+     "The death of Antiochus X is shrouded in mystery.",
+     "The year of his demise is traditionally given by modern scholars as 92 BC, but other dates are also possible including the year 224 SE (89/88BC).",
+     "The most reliable account of his end is that of the first century historian Josephus, who wrote that AntiochusX marched east to fight off the Parthians who were attacking a queen called Laodice; the identity of this queen and who her people were continues to be debated.",
+     "Other accounts exist:",
+     "the ancient Greek historian Appian has AntiochusX defeated by the Armenian king Tigranes II and losing his kingdom; the third century historian Eusebius wrote that AntiochusX was defeated by his cousins and escaped to the Parthians before asking the Romans for help in having him reinstated on the throne.",
+     "Modern scholars prefer the account of Josephus and question practically every aspect of the versions presented by other ancient historians.",
+     "Numismatic evidence shows that AntiochusX was succeeded in Antioch by Demetrius III, who controlled the capital in SE (88/87 BC)."
+    ]
+   ],
+   [
+    "John Westley",
+    [
+     "Rev. John Westley( 1636 – 78) was an English nonconformist minister.",
+     "He was the grandfather of John Wesley( founder of Methodism)."
+    ]
+   ],
+   [
+    "Cleopatra IV of Egypt",
+    [
+     "Cleopatra IV  was Queen of Egypt briefly from 116 to 115 BC, jointly with her husband Ptolemy IX Lathyros.",
+     "She later became queen consort of Syria as the wife of Antiochus IX Cyzicenus."
+    ]
+   ],
+   [
+    "Laodice of the Sameans",
+    [
+     "Laodice was a Queen of an unknown Kingdom in Asia.",
+     "She lived at the time of the Seleucid king of Syria Antiochus X Eusebes who reigned 95 BC- 92 or 88 BC."
+    ]
+   ],
+   [
+    "Prithvipati Shah",
+    [
+     "Prithvipati Shah( ?–1716) was the king of the Gorkha Kingdom in the Indian subcontinent, present- day Nepal.",
+     "He was the grandfather of Nara Bhupal Shah."
+    ]
+   ],
+   [
+    "Abd al-Muttalib",
+    [
+     "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad."
+    ]
+   ],
+   [
+    "Lyon Cohen",
+    [
+     "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist.",
+     "He was the grandfather of singer/ poet Leonard Cohen."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Antiochus X Eusebes",
+    1
+   ],
+   [
+    "Cleopatra IV of Egypt",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Antiochus X Eusebes",
+    "mother",
+    "Cleopatra IV"
+   ],
+   [
+    "Cleopatra IV",
+    "father",
+    "Ptolemy IX Lathyros"
+   ]
+  ],
+  "answer": "Ptolemy IX Lathyros"
+ },
+ {
+  "_id": "05f8a691087b11ebbd67ac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director died first, Crimen A Las Tres or The Working Class Goes To Heaven?",
+  "context": [
+   [
+    "Ruth Frow",
+    [
+     "Ruth Frow( 1922–2008) was a peace activist and historian of the labour movement.",
+     "She co-founded the Working Class Movement Library in Salford, a collection of material associated with labour and working class history."
+    ]
+   ],
+   [
+    "Boy Goes to Heaven",
+    [
+     "Boy Goes to Heaven, also known as A Boy Who Went to Heaven, is a 2005 South Korean film directed by Yoon Tae- yong, starring Yum Jung -ah and Park Hae- il."
+    ]
+   ],
+   [
+    "Carlos Eduardo Gutiérrez",
+    [
+     "Carlos Eduardo Gutiérrez Silva( born December 25, 1976 in Treinta y Tres), or simply Carlos Gutiérrez, is a Uruguayan professional footballer.",
+     "He played for Uruguay at the Copa América 2001."
+    ]
+   ],
+   [
+    "Crimen a las tres",
+    [
+     "Crimen a las tres is a Argentine crime film directed and written by Luis Saslavsky."
+    ]
+   ],
+   [
+    "Luis Saslavsky",
+    [
+     "Luis Saslavsky( April 21, 1903 – March 20, 1995) was an Argentine film director, screenwriter and film producer, and one of the influential directors in the Cinema of Argentina of the classic era.",
+     "He was Jewish.",
+     "Saskavsky was born in Rosario, Santa Fe, Argentina.",
+     "He directed and wrote over 40 films between 1931 and 1979.",
+     "He directed films such as Crimen a las tres in 1935 and wrote for films such as Allá en el Norte in 1973.",
+     "He retired from the industry in 1979.",
+     "He died in Buenos Aires, aged 91."
+    ]
+   ],
+   [
+    "The Working Class Goes to Heaven",
+    [
+     "The Working Class Goes to Heaven( released in the US as Lulu the Tool) is a 1971 political drama film directed by Elio Petri.",
+     "It depicts a factory worker's realisation of his own condition as a simple\" tool\" in the process of production and, implicitly, his struggle with the trade unions.",
+     "The film competed at the 1972 Cannes Film Festival, where it tied with\" The Mattei Affair\" for the Grand Prix International du Festival, the festival's highest honour.",
+     "In Italy, it also won the David di Donatello for Best Film."
+    ]
+   ],
+   [
+    "Elio Petri",
+    [
+     "Elio Petri( 29 January 1929 – 10 November 1982) was an Italian political filmmaker best known for the 1970 Academy Award- winning film\" Investigation of a Citizen Above Suspicion\"."
+    ]
+   ],
+   [
+    "Escala en la ciudad",
+    [
+     "Escala en la ciudad(\" A stop in the city\") is a Argentine film directed and written by Alberto De Zavalia with Carlos Aden.",
+     "It was produced by SIFAL, a production company run by de Zavalia and his partner Luis Saslavsky.",
+     "The production company disbanded the following year, after de Zavalia had made\" Escala en la ciudad\", his feature film debut, and Saslavsky had completed his second and most famous movie,\" Crimen a las tres\"."
+    ]
+   ],
+   [
+    "The Mattei Affair",
+    [
+     "The Mattei Affair is a 1972 film directed by Francesco Rosi.",
+     "It depicts the life and mysterious death of Enrico Mattei, an Italian businessman who in the aftermath of World War II managed to avoid the sale of the nascent Italian oil and hydrocarbon industry to US companies and developed them in the Eni, a state- owned oil company which rivaled the' seven sisters' for oil and gas deals in northern African and Middle Eastern countries.",
+     "The film shared the\" Grand Prix\" with\" The Working Class Goes to Heaven\" at the 1972 Cannes Film Festival.",
+     "Italian star Gian Maria Volonté was the leading actor in both films.",
+     "The film is an innovative hybrid of documentary and fiction, representing Francesco Rosi ’s concept of cine- inchieste( film investigation).",
+     "The flashback structure shows the influence of\" Citizen Kane\" and Rosi ’s\" Salvatore Giuliano\"( 1962).",
+     "Rosi remains faithful to his neo-realist roots with on- location shooting and non-professional actors.",
+     "The film is interspersed with footage of the director trying to find his friend, the investigative journalist Mauro De Mauro, who disappeared while doing research for the film.",
+     "He was killed by the Sicilian Mafia, but like the death of Mattei, De Mauro ’s case was never solved."
+    ]
+   ],
+   [
+    "Ronaldo Tres",
+    [
+     "Ronaldo Tres or simply Ronaldo (born February 13, 1987 in Rodeio Bonito), is a Brazilian defensive midfielder.",
+     "He currently plays for Figueirense."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Crimen a las tres",
+    0
+   ],
+   [
+    "The Working Class Goes to Heaven",
+    0
+   ],
+   [
+    "Luis Saslavsky",
+    0
+   ],
+   [
+    "Elio Petri",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Crimen a las tres",
+    "director",
+    "Luis Saslavsky"
+   ],
+   [
+    "The Working Class Goes to Heaven",
+    "director",
+    "Elio Petri"
+   ],
+   [
+    "Luis Saslavsky",
+    "date of death",
+    "March 20, 1995"
+   ],
+   [
+    "Elio Petri",
+    "date of death",
+    "10 November 1982"
+   ]
+  ],
+  "answer": "The Working Class Goes To Heaven"
+ },
+ {
+  "_id": "645c9a5a08c311ebbd8dac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director born first, Once A Gentleman or The Girl In White?",
+  "context": [
+   [
+    "Once a Gentleman",
+    [
+     "Once a Gentleman is a 1930 American comedy film directed by James Cruze and starring Edward Everett Horton, Lois Wilson and Francis X. Bushman.",
+     "A butler goes on vacation, where he is wrongly supposed to be a wealthy man."
+    ]
+   ],
+   [
+    "The Girl in the Taxi (1937 film)",
+    [
+     "The Girl in the Taxi is a 1937 British musical comedy film directed by André Berthomieu and starring Frances Day, Henri Garat and Lawrence Grossmith.",
+     "It was based on the stage musical\" The Girl in the Taxi\"."
+    ]
+   ],
+   [
+    "Henry Moore (cricketer)",
+    [
+     "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand."
+    ]
+   ],
+   [
+    "The Girl in Number 29",
+    [
+     "The Girl in Number 29 is a 1920 American silent drama film directed by John Ford based on the novel\" The Girl in the Mirror\"( 1919) by Elizabeth Jordan.",
+     "The film is presumed to be lost."
+    ]
+   ],
+   [
+    "Wale Adebanwi",
+    [
+     "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford."
+    ]
+   ],
+   [
+    "James Cruze",
+    [
+     "James Cruze( born Jens Vera Cruz Bosen, March 27, 1884 near Ogden, Utah – August 3, 1942 in Hollywood, California) was a silent film actor and film director."
+    ]
+   ],
+   [
+    "John Sturges",
+    [
+     "John Eliot Sturges( January 3, 1910 – August 18, 1992) was an American film director.",
+     "His movies include\" Bad Day at Black Rock\"( 1955),\" Gunfight at the O.K. Corral\"( 1957),\" The Magnificent Seven\"( 1960),\" The Great Escape\"( 1963), and\" Ice Station Zebra\"( 1968).",
+     "In 2013,\" The Magnificent Seven\" was selected for preservation in the United States National Film Registry by the Library of Congress as being\" culturally, historically, or aesthetically significant\".",
+     "He was not related to director Preston Sturges."
+    ]
+   ],
+   [
+    "The Girl in the Fog",
+    [
+     "The Girl in the Fog is a 2017 Italian psychological thriller film based on the novel of the same name by Donato Carrisi."
+    ]
+   ],
+   [
+    "The Girl in White",
+    [
+     "The Girl in White is a 1952 film drama directed by John Sturges.",
+     "It is based on the memoirs of the pioneering female surgeon Emily Dunning Barringer."
+    ]
+   ],
+   [
+    "Claude Weisz",
+    [
+     "Claude Weisz is a French film director born in Paris."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Once a Gentleman",
+    0
+   ],
+   [
+    "The Girl in White",
+    0
+   ],
+   [
+    "James Cruze",
+    0
+   ],
+   [
+    "John Sturges",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Once a Gentleman",
+    "director",
+    "James Cruze"
+   ],
+   [
+    "The Girl in White",
+    "director",
+    "John Sturges"
+   ],
+   [
+    "James Cruze",
+    "date of birth",
+    "March 27, 1884"
+   ],
+   [
+    "John Sturges",
+    "date of birth",
+    "January 3, 1910"
+   ]
+  ],
+  "answer": "Once A Gentleman"
+ },
+ {
+  "_id": "5bec3cd408a711ebbd7fac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?",
+  "context": [
+   [
+    "Franco Rossi (director)",
+    [
+     "Franco Rossi( 19 April 1919, Florence- 5 June 2000, Rome) was an Italian film screenwriter and director, mainly known for having directed the six- hour- long Italian- German- British- Swiss TV mini-series\" Quo Vadis?\" in 1985."
+    ]
+   ],
+   [
+    "Jeannette: The Childhood of Joan of Arc",
+    [
+     "Jeannette: The Childhood of Joan of Arc is a 2017 French musical film directed by Bruno Dumont.",
+     "It was screened in the Directors' Fortnight section at the 2017 Cannes Film Festival.",
+     "It was followed two years later by the non-musical sequel\" Joan of Arc\" which premiered at the 2019 Cannes Film Festival, written and directed by Dumont and with Lise Leplat Prudhomme reprising her role."
+    ]
+   ],
+   [
+    "Jean Pasquerel",
+    [
+     "Jean Pasquerel( c. 1400) was an Augustinian friar( member of the Order of St. Augustine), almoner and confessor of Joan of Arc."
+    ]
+   ],
+   [
+    "Il seduttore",
+    [
+     "Il seduttore( translation:\" The Seducer\") is a 1954 Italian comedy film directed by Franco Rossi.",
+     "It was adapted from the play by Diego Fabbri."
+    ]
+   ],
+   [
+    "Robert le Maçon",
+    [
+     "Robert le Maçon( c. 1365 – 28 January 1443) was chancellor of France, advisor to Charles VII and supporter of Joan of Arc."
+    ]
+   ],
+   [
+    "Lionel Royer",
+    [
+     "Lionel- Noël Royer( December 25, 1852 – 30 June 1926) was a French painter.",
+     "He was most famous for painting large scenes of the life of Joan of Arc in the in Domrémy."
+    ]
+   ],
+   [
+    "The Trial of Joan of Arc",
+    [
+     "The Trial of Joan of Arc is a 1962 French historical film directed by Robert Bresson.",
+     "Joan of Arc is played by Florence Delay.",
+     "As with Bresson's most renowned films,\" The Trial of Joan of Arc\" stars non-professional performers and is filmed in an extremely spare, restrained style.",
+     "Bresson's screenplay is drawn from the transcriptions of Joan's trial and rehabilitation.",
+     "Bresson's\" Joan of Arc\" is often compared with\" The Passion of Joan of Arc\"( 1928) by Carl Theodor Dreyer.",
+     "Bresson compared that film unfavorably with his own, expressing his dislike of the actors'\" grotesque buffooneries\" in Dreyer's film."
+    ]
+   ],
+   [
+    "Daniel Hobbins",
+    [
+     "Daniel Hobbins is a Professor of History at the University of Notre Dame and an American historian specializing in Medieval France.",
+     "He has also written in the American Historical Review.",
+     "In this article, Hobbins writes on Jean Gerson.",
+     "Although his recent research involves Gerson, Dr. Hobbins' most significant work is\" The Trial of Joan of Arc\".",
+     "Published scholarly reviews have been universally positive.",
+     "For example, Wendy Maier of Oakton Community College writes that this\" text is suitable for students, scholars, and anyone with an interest in Joan of Arc.\"",
+     "Other reviews note the significance of the book as being the\" first translation of the trial transcripts in fifty years!\"",
+     "Larissa Juliet Taylor, a professor at Colby College, says",
+     "\" The entire scholarly community will welcome two new books that offer English translations of many Johannine sources -- Hobbins' trial translation and introduction, reviewed here, ...\"",
+     "The reviewer thinks that Hobbins' book will be a useful for the classroom, because other editions of the trial transcripts are inadequate in various ways — not enough notes, bad OCR, etc.",
+     "If this reviewer is correct, Hobbins' book will probably be in use in many college courses.",
+     "Taylor's review ends:\" Daniel Hobbins has provided an extraordinary service to the scholarly and educational community with this outstanding new translation of the Latin trial compilation.",
+     "Equally important, his critical introduction and notes stand alongside the most valuable recent contributions to scholarship on Joan of Arc.\"",
+     "Another positive reviewer refers to the book as\" excellent\" and\" informative.\"",
+     "The reviewer asks why\" do we need Hobbins' new English translation?\"",
+     "The reasons given in this review by Susan Tiefenbrun are that Hobbins' book is\" more reliable\" and\" more convenient.\"",
+     "He\" gave guest lectures on Joan of Arc at Bowling Green State University( October 17) and at Ohio Northern University( October 23\".",
+     "He is the recipient of the Nina Maria Gorrissen Prize and Fellow at the American Academy in Berlin for Fall 2011."
+    ]
+   ],
+   [
+    "Jean de Metz",
+    [
+     "Jean de Metz( also Jean de Nouillonpont)( born c. 1398) was a French nobleman who is known primarily for his role in the exploits of Joan of Arc."
+    ]
+   ],
+   [
+    "Robert Bresson",
+    [
+     "Robert Bresson( 25 September 1901 – 18 December 1999) was a French film director.",
+     "Known for his ascetic approach, Bresson contributed notably to the art of cinema; his non-professional actors, ellipses, and sparse use of scoring have led his works to be regarded as preeminent examples of minimalist film.",
+     "Bresson is among the most highly regarded French filmmakers of all time.",
+     "His works\" A Man Escaped\"( 1956),\" Pickpocket\"( 1959) and\" Au hasard Balthazar\"( 1966) were ranked among the 100 greatest films ever made in the 2012\" Sight& Sound\" critics' poll.",
+     "Other films of his, such as\" Mouchette\"( 1967) and\" L' Argent\"( 1983), also received many votes.",
+     "Jean- Luc Godard once wrote,\" He is the French cinema, as Dostoevsky is the Russian novel and Mozart is German[\" sic\"] music.\""
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Il seduttore",
+    0
+   ],
+   [
+    "The Trial of Joan of Arc",
+    0
+   ],
+   [
+    "Franco Rossi (director)",
+    0
+   ],
+   [
+    "Robert Bresson",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Il seduttore",
+    "director",
+    "Franco Rossi"
+   ],
+   [
+    "The Trial of Joan of Arc",
+    "director",
+    "Robert Bresson"
+   ],
+   [
+    "Franco Rossi (director)",
+    "date of death",
+    "5 June 2000"
+   ],
+   [
+    "Robert Bresson",
+    "date of death",
+    "18 December 1999"
+   ]
+  ],
+  "answer": "The Trial Of Joan Of Arc"
+ },
+ {
+  "_id": "464cfa460bd911eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Where was the director of film Thomas Jefferson (Film) born?",
+  "context": [
+   [
+    "Atiba Jefferson",
+    [
+     "Atiba Jefferson( born 1976) is an American photographer and skateboarder."
+    ]
+   ],
+   [
+    "Richard H. Jefferson",
+    [
+     "Richard H. Jefferson( born January 20, 1931) is an American politician who served in the Minnesota House of Representatives from 1987 to 1999."
+    ]
+   ],
+   [
+    "Derrick Jefferson",
+    [
+     "Derrick Lavon Jefferson( born March 10, 1968) is an American former professional boxer."
+    ]
+   ],
+   [
+    "Jermar Jefferson",
+    [
+     "Jermar Jefferson( born April 15, 2000) is an American football running back for the Oregon State Beavers."
+    ]
+   ],
+   [
+    "Ken Burns",
+    [
+     "Kenneth Lauren Burns (born 1953) is an American filmmaker, known for his style of using archival footage and photographs in documentary films.",
+     "His widely known documentary series include \"The Civil War\" (1990), \"Baseball\" (1994), \"Jazz\" (2001), \"The War\" (2007),  (2009), \"Prohibition\" (2011), \"The Roosevelts\" (2014), \"The Vietnam War\" (2017), and \"Country Music\" (2019).",
+     "He was also executive producer of both \"The West\" (1996, directed by Stephen Ives), and \"Cancer: The Emperor of All Maladies\" (2015, directed by Barak Goodman).",
+     "Burns' documentaries have earned two Academy Award nominations (for 1981's \"Brooklyn Bridge\" and 1985's \"The Statue of Liberty\") and have won several Emmy Awards, among other honors."
+    ]
+   ],
+   [
+    "Severino Jefferson",
+    [
+     "Severino Jefferson( born 29 October 1985) is a Brazilian professional footballer who last played in Canada for the Montreal Impact."
+    ]
+   ],
+   [
+    "Dontell Jefferson",
+    [
+     "Dontell Jefferson( born December 15, 1983) is an American professional basketball player."
+    ]
+   ],
+   [
+    "Tabinas Jefferson",
+    [
+     "Tabinas Jefferson( born 7 August 1998), is a Japanese footballer who plays as a defender for FC Gifu."
+    ]
+   ],
+   [
+    "Thomas Jefferson (film)",
+    [
+     "Thomas Jefferson is a 1997 two-part American documentary film directed and produced by Ken Burns.",
+     "It covers the life and times of Thomas Jefferson, the 3rd President of the United States.",
+     "In the film Jefferson is portrayed as renaissance man.",
+     "Not only was he a dedicated public servant, but was also a writer, an inventor, and a noted architect.",
+     "Burns captures both the public and private person."
+    ]
+   ],
+   [
+    "Billy Jefferson",
+    [
+     "Billy Jefferson( born March 17, 1918) is a former American football running back in the National Football League."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Thomas Jefferson (film)",
+    0
+   ],
+   [
+    "Ken Burns",
+    3
+   ]
+  ],
+  "evidences": [
+   [
+    "Thomas Jefferson",
+    "director",
+    "Ken Burns"
+   ],
+   [
+    "Ken Burns",
+    "place of birth",
+    "Brooklyn"
+   ]
+  ],
+  "answer": "Brooklyn"
+ },
+ {
+  "_id": "c05e16a40bdd11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?",
+  "context": [
+   [
+    "Abdul-Vahed Niyazov",
+    [
+     "' of Russia."
+    ]
+   ],
+   [
+    "Louis II, Grand Duke of Baden",
+    [
+     "Louis II, Grand Duke of Baden( 15 August 1824 – 22 January 1858) was the son of Leopold I, Grand Duke of Baden and Sophie of Holstein- Gottorp, Princess of Sweden.",
+     "Louis succeeded his father as Grand Duke of Baden on 24 April 1852.",
+     "His brother Frederick acted as regent, because Louis suffered from mental illness.",
+     "However, in 1856, Frederick became grand duke as well.",
+     "He was also an honorary citizen of Karlsruhe."
+    ]
+   ],
+   [
+    "Prince Karl of Leiningen",
+    [
+     "Prince Karl Vladimir Ernst Heinrich of Leiningen( 2 January 1928 – 28 September 1990) was the younger son of Karl, 6th Prince of Leiningen( 1898 – 1946) and Grand Duchess Maria Kirillovna of Russia.",
+     "Maria was the daughter of Princess Victoria Melita of Edinburgh and Saxe- Coburg- Gotha and Cyril Vladimirovich, Grand Duke of Russia.",
+     "As such, Karl was a great- great- grandson of both Queen Victoria of Great Britain and Emperor Alexander II of Russia( as Victoria Melita and Cyril Vladimirovich were both grandchildren of Alexander II)."
+    ]
+   ],
+   [
+    "Princess Victoria Melita of Saxe-Coburg and Gotha",
+    [
+     "Princess Victoria Melita of Saxe-Coburg and Gotha , later Grand Duchess Victoria Feodorovna of Russia (25 November 1876 – 2 March 1936) was the third child and second daughter of Alfred, Duke of Saxe-Coburg and Gotha, and Grand Duchess Maria Alexandrovna of Russia.",
+     "She was a granddaughter of Queen Victoria of the United Kingdom and Emperor Alexander II of Russia.",
+     "Born a British princess, Victoria spent her early life in England and lived in Malta for three years, where her father was serving in the Royal Navy.",
+     "In 1889 the family moved to Coburg, where Victoria's father became the reigning duke in 1893.",
+     "In her teens Victoria fell in love with her maternal first cousin Grand Duke Kirill Vladimirovich of Russia, but the disapprobation of marriage between first cousins of his faith, Orthodox Christianity, discouraged their romance.",
+     "Bowing to family pressure, Victoria married her paternal first cousin, Ernest Louis, Grand Duke of Hesse and by Rhine in 1894, following the wishes of their grandmother, Queen Victoria.",
+     "Their marriage was a failure.",
+     "Victoria scandalized the royal families of Europe when she divorced her husband in 1901.",
+     "The couple's only child, Princess Elisabeth of Hesse and by Rhine, died of typhoid fever in 1903.",
+     "Victoria married Grand Duke Kirill Vladimirovich in 1905.",
+     "They wed without the formal approval of Britain's King Edward VII, required by the Royal Marriages Act 1772, and in defiance of Tsar Nicholas II.",
+     "In retaliation, the Tsar stripped Kirill of his offices and honours, also initially banishing the couple from Russia.",
+     "They had two daughters and settled in Paris before being allowed to visit Russia in 1909.",
+     "In 1910 they moved to Russia, where Nicholas recognized her as Grand Duchess Victoria Feodorovna.",
+     "After the fall of the Russian monarchy in 1917, they escaped to Finland (then part of the Russian Empire) where she gave birth to her only son.",
+     "In exile they lived for some years among her relatives in Germany, and from the late 1920s on an estate they bought in Saint-Briac.",
+     "In 1926, Kirill proclaimed himself emperor in exile and Victoria supported her husband's claims.",
+     "Victoria died after suffering a stroke while visiting her daughter Maria in Amorbach."
+    ]
+   ],
+   [
+    "Grand Duke Andrei Vladimirovich of Russia",
+    [
+     "Grand Duke Andrei Vladimirovich of Russia ((14 May 1879 – 30 October 1956) was a son of Grand Duke Vladimir Alexandrovich of Russia, a grandson of Emperor Alexander II and a first cousin of Nicholas II, Russia’s last Tsar.",
+     "In 1900, he began an affair with the famous ballerina Mathilde Kschessinska, becoming the third grand duke to fall for her.",
+     "Grand Duke Andrei followed a military career and graduated from the Alexandrovskaya Military Law academy in 1905.",
+     "He occupied different military positions during the reign of Tsar Nicholas II, but with no particular distinction.",
+     "He became senator in 1911 and was appointed Major General in the Russian Army in 1915.",
+     "He took part in World War I, but was away from real combat spending most of the conflict at Russia's headquarters or in idle time in Saint Petersburg.",
+     "In February 1917, shortly before the fall of the Russian monarchy, Grand Duke Andrei left Saint Petersburg to join his mother in Kislovodsk.",
+     "He remained in the Caucasus for the next three years.",
+     "After the October Revolution he was briefly arrested along with his brother, Grand Duke Boris, but they escaped.",
+     "He departed revolutionary Russia in March 1920, being the last grand duke to leave for exile.",
+     "In 1921, he married his longtime mistress Mathilde Kschessinska and recognized her son as his.",
+     "The couple lived in the South of France until 1929 when they moved permanently to Paris, where Kschessinska opened a ballet school.",
+     "After World War II, Grand Duke Andrei lived under reduced circumstances.",
+     "Until his death at age 77, he was the last surviving Russian grand duke born in Imperial Russia."
+    ]
+   ],
+   [
+    "Grand Duke Kirill Vladimirovich of Russia",
+    [
+     "Grand Duke Kirill Vladimirovich of Russia, (\"Kirill Vladimirovich Romanov\"; – 12 October 1938) was a son of Grand Duke Vladimir Alexandrovich of Russia, a grandson of Emperor Alexander II and a first cousin of Nicholas II, Russia’s last Tsar.",
+     "Grand Duke Kirill followed a career in the Russian navy serving during twenty years in the Naval Guards.",
+     "He took part in the Russo-Japanese War, barely surviving the sinking of the battleship at Port Arthur in April 1904.",
+     "In 1905, he married his paternal first cousin, Princess Victoria Melita of Saxe-Coburg and Gotha.",
+     "They wed in defiance of Tsar Nicholas II prohibition.",
+     "In retaliation, the Tsar stripped Kirill of his offices and honors, also initially banishing the couple from Russia.",
+     "They had two daughters and settled in Paris before being allowed to visit Russia in 1909.",
+     "In 1910 they moved to Russia, where Nicholas II recognized their marriage.",
+     "During World War I, Grand Duke Kirill was appointed Commander of the Naval Depot of the Guards in 1915 and in 1916, he achieved the rank of rear Admiral in the Imperial Navy.",
+     "During the February Revolution of 1917, Kirill marched to the Tauride Palace at the head of the Naval Guards swearing allegiance to the Russian Provisional Government.",
+     "During the rule of the provisional governmental in the summer 1917, Kirill escaped to Finland where his wife gave birth to the couple's only son.",
+     "In exile they lived for some years among his wife's relatives in Germany, and from the late 1920s on an estate they bought in Saint-Briac.",
+     "With the murder of his cousins Tsar Nicholas II and Grand Duke Michael, Kirill assumed the headship of the Imperial Family of Russia and, as next in line to the throne as the Guardian of the Throne in 1924.",
+     "Kirill proclaimed himself emperor in exile in 1926.",
+     "He worked for the restoration of the monarchy from exile for the rest of his life, but his claims were contested by some factions of the monarchy movement in a division that continues until today.",
+     "He wrote a book of memoirs, \"My Life in Russia's Service\", published after his death.",
+     "His granddaughter, Grand Duchess Maria Vladimirovna, is the current claimant to the headship of the House of Romanov."
+    ]
+   ],
+   [
+    "Princess Irene of Hesse and by Rhine",
+    [
+     "Princess Irene of Hesse and by Rhine(\" Irene Luise Marie Anne, Princess of Hesse and by Rhine\", 11 July 1866 – 11 November 1953) was the third child and third daughter of Princess Alice of the United Kingdom and Louis IV, Grand Duke of Hesse and by Rhine.",
+     "Her maternal grandparents were Queen Victoria and Prince Albert of Saxe- Coburg and Gotha.",
+     "Her paternal grandparents were Prince Charles of Hesse and by Rhine and Princess Elizabeth of Prussia.",
+     "She was the wife of Prince Henry of Prussia, a younger brother of Wilhelm II, German Emperor and her first cousin.",
+     "The SS\" Prinzessin Irene\", a liner of the North German Lloyd was named after her.",
+     "Her siblings included Princess Victoria of Hesse and by Rhine, wife of Prince Louis of Battenberg, Grand Duchess Elizabeth Feodorovna of Russia, wife of Grand Duke Sergei Alexandrovich of Russia, Ernest Louis, Grand Duke of Hesse and by Rhine, and Empress Alexandra Feodorovna of Russia, wife of Tsar Nicholas II of Russia.",
+     "Like her younger sister, the empress, Irene was a carrier of the hemophilia gene, and Irene would lose her sisters Alix and Elisabeth in Russia to the Bolsheviks."
+    ]
+   ],
+   [
+    "Grand Duke Vyacheslav Konstantinovich of Russia",
+    [
+     "Grand Duke Vyacheslav Konstantinovich of Russia,( 13 July 1862 – 27 February 1879), was a Romanov grand duke and the youngest son of Grand Duke Konstantin Nikolayevich of Russia and his wife Princess Alexandra of Saxe- Altenburg.",
+     "The English form of his first name is Wenceslas."
+    ]
+   ],
+   [
+    "Grand Duke Nicholas Konstantinovich of Russia",
+    [
+     "Grand Duke Nicholas Constantinovich of Russia( 14 February 1850 – 26 January 1918) was the first- born son of Grand Duke Konstantin Nikolayevich and Grand Duchess Alexandra Iosifovna of Russia and a grandson of Nicholas I of Russia."
+    ]
+   ],
+   [
+    "Nikolaus, Hereditary Grand Duke of Oldenburg",
+    [
+     "Nikolaus, Hereditary Grand Duke of Oldenburg( 10 August 18973 April 1970) was the eldest son of Frederick Augustus II, Grand Duke of Oldenburg, who was the last ruling Grand Duke of Oldenburg.",
+     "In 1931, Nikolaus succeeded to his father's titles and assumed the role of pretender to the Grand Duchy, until his death in 1970."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Grand Duke Kirill Vladimirovich of Russia",
+    3
+   ],
+   [
+    "Princess Victoria Melita of Saxe-Coburg and Gotha",
+    17
+   ]
+  ],
+  "evidences": [
+   [
+    "Grand Duke Kirill Vladimirovich of Russia",
+    "spouse",
+    "Princess Victoria Melita of Saxe-Coburg and Gotha"
+   ],
+   [
+    "Princess Victoria Melita of Saxe-Coburg and Gotha",
+    "cause of death",
+    "stroke"
+   ]
+  ],
+  "answer": "stroke"
+ },
+ {
+  "_id": "2935f1640bda11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Where was the place of death of the director of film Beat Girl?",
+  "context": [
+   [
+    "Olav Aaraas",
+    [
+     "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director.",
+     "He was born in Fredrikstad.",
+     "From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History.",
+     "In 2010 he was decorated with the Royal Norwegian Order of St. Olav."
+    ]
+   ],
+   [
+    "Beat Girl",
+    [
+     "Beat Girl is a 1960 British teen exploitation film directed by Edmond T. Gréville.",
+     "The film was released in the United States under the title Wild for Kicks.",
+     "The title character of \"Beat Girl\" was played by starlet Gillian Hills, who later went on to have numerous small roles in 1960s and 1970s films, such as \"Blowup\" and \"A Clockwork Orange\", and became a successful ye-ye singer in France.",
+     "\"Beat Girl\" marked the first film roles of British pop idol Adam Faith and actor Peter McEnery, although it was not released until after other films featuring Faith (\"Never Let Go\") and McEnery (\"Tunes of Glory\") had already come out.",
+     "The film also features Christopher Lee and Nigel Green as strip joint operators, and Oliver Reed in a small role as one of the \"beat\" youth.",
+     "The original music was composer John Barry's first film commission, and was performed by the John Barry Seven and Orchestra, Adam Faith, and Shirley Anne Field.",
+     "The \"Beat Girl\" soundtrack was the first British soundtrack album to be released on a vinyl LP, and it reached number 11 on the UK Albums Chart, paving the way for the release of other film soundtrack albums."
+    ]
+   ],
+   [
+    "Peter Levin",
+    [
+     "Peter Levin is an American director of film, television and theatre."
+    ]
+   ],
+   [
+    "Dana Blankstein",
+    [
+     "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television.",
+     "She is a film director, and an Israeli culture entrepreneur."
+    ]
+   ],
+   [
+    "Edmond T. Gréville",
+    [
+     "Edmond T. Gréville (real name Edmond Gréville Thonger,",
+     "20 June 1906 Nice – 26 May 1966",
+     ", Nice) was a French film director and screenwriter.",
+     "He was married to the actress Vanda Gréville."
+    ]
+   ],
+   [
+    "Jesse E. Hobson",
+    [
+     "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955.",
+     "Prior to SRI, he was the director of the Armour Research Foundation."
+    ]
+   ],
+   [
+    "S. N. Mathur",
+    [
+     "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980.",
+     "He was also the Director General of Police in Punjab."
+    ]
+   ],
+   [
+    "Kim Sung-su (director)",
+    [
+     "Kim Sung- su( born November 15, 1961) is a South Korean film director, known mainly for the teen film\" Beat\", period epic\" Musa\" and the comedy\" Please Teach Me English\"."
+    ]
+   ],
+   [
+    "Ian Barry (director)",
+    [
+     "Ian Barry is an Australian director of film and TV."
+    ]
+   ],
+   [
+    "Brian Kennedy (gallery director)",
+    [
+     "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States.",
+     "He is currently the director of the Peabody Essex Museum.",
+     "He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019.",
+     "He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Beat Girl",
+    0
+   ],
+   [
+    "Edmond T. Gréville",
+    1
+   ]
+  ],
+  "evidences": [
+   [
+    "Beat Girl",
+    "director",
+    "Edmond T. Gréville"
+   ],
+   [
+    "Edmond T. Gréville",
+    "place of death",
+    "Nice"
+   ]
+  ],
+  "answer": "Nice"
+ },
+ {
+  "_id": "ada1b358085211ebbd58ac1f6bf848b6",
+  "type": "comparison",
+  "question": "Who died first, Fleetwood Sheppard or George William Whitaker?",
+  "context": [
+   [
+    "George William Whitaker",
+    [
+     "George William Whitaker( September 25, 1840 – March 6, 1916) was a prominent Rhode Island landscape painter during the late 19th and early 20th century, known as the\" Dean of Providence painters\" or the\" Dean of Rhode Island Artists.\""
+    ]
+   ],
+   [
+    "Fleetwood Sheppard",
+    [
+     "Fleetwood Sheppard (sometimes spelled as \"Shepphard,Sheppheard,\" and \"Sheppeard\") (1 January 1634 – 25 August 1698) was a British courtier and literary wit who was instrumental in the courts of Charles II of England and William of Orange.",
+     "He was an educated man known for his lively wit and honesty, and he was an important figure in the poetry of the 1680s and 1690s.",
+     "He was born in Oxfordshire, attended Magdalen Hall and Christ Church, Oxford, gaining the Bachelor of Arts in 1654 and Master of Arts in 1657.",
+     "When all persons attaining an M.A. were required to join the Church of England, King Charles intervened and said that Sheppard had a background in civil law (having studied at Gray's Inn) and was \"not prepared to take orders, he being a person of much ability\" (Ellis 255).",
+     "Instead, Sheppard became a courtier.",
+     "He was introduced to Nell Gwynn and became one of her favourite companions, along with Charles Sackville, Lord Buckhurst (later Earl of Dorset).",
+     "He would remain one of Dorset's closest friends throughout his life.",
+     "While satirists and gossips (such as Anthony á Wood) said that Sheppard spent his time as \"a debauchee and atheist, a grand companion,\" others suggested that he was a fundamentally honest man who was always interested in a good joke.",
+     "He became one of Charles II's dining companions, and when Nell Gwynn gave birth to a male child, he was made the steward of Gwynn's household.",
+     "This prompted a satirist to accuse him of being the best paid pimp in the land.",
+     "There is little truth to this charge, however, as Sheppard was not paid by the crown for his services, except for two grants of £200.",
+     "Dorset and Sheppard went to Paris together.",
+     "Additionally, Dorset would travel out to meet Sheppard when the latter went out to the country.",
+     "Whether he and Dorset got in trouble in Paris for some scandalous behaviour, as Wood suggests, or not, it is true that Sheppard lived a very active life.",
+     "He was stabbed beneath the eye while separating Henry Bulkeley and George Etheridge in a quarrel in a tavern.",
+     "Sheppard was not liked by James II, and Sheppard did not like James, either.",
+     "When Charles II died, Sheppard went into retirement.",
+     "However, when William came to the throne, Sheppard was back at court and back in favour.",
+     "Dorset was made the chamberlain of the royal household, and that gave him a great many places to dispense in patronage.",
+     "For this, he employed Sheppard.",
+     "Sheppard received the proceeds from those wishing to purchase places, and he received the favours of those wishing a good word to be placed on their behalf.",
+     "At the same time, Sheppard was a favourite of the new Queen's, and John Oldmixon said that he made the Queen \"very merry.\"",
+     "In \"A New Way of Selling Places at Court\" in 1712, Jonathan Swift would say that Fleetwood Sheppard sold places that did not exist and named successors for posts that were not vacant, that he enriched himself greatly.",
+     "In 1690 he was made a gentleman usher to the king.",
+     "In 1694 he was knighted, became a gentleman usher to the black rod in the House of Lords, and was inducted as a knight of the garter.",
+     "Sheppard was a patron of many poets and one of those who discovered others.",
+     "He was one of the ones, for example, who \"discoveredParadise Lost\" when Buckhurst bought it from a small stall at a fair.",
+     "He was also present when Matthew Prior was discovered reading Horace as a tap puller in a bar and sent to school to cultivate his talents.",
+     "He was also one of the main supports of Robert Gould, as well as John Oldmixon.",
+     "He may have embraced the Puritan cause around 1695, and some of his old friends were disaffected by this change.",
+     "Charles Gildon, Thomas Rymer, and John Dennis dedicated volumes of literary criticism to Sheppard, and John Wilmot, 2nd Earl of Rochester regarded Sheppard as the only critic he needed for his verses.",
+     "In his last years, Sheppard was reported dead several times before he died.",
+     "In 1694, Lord Godolphin heard a report that Sheppard had died, but Sheppard himself responded, saying that he was alive, but that he had suffered from \"the stone\" for twelve to fourteen years.",
+     "In December 1697, he was again reported as dead.",
+     "In July 1698, he was \"again\" reported as dead.",
+     "He did die shortly afterward, but in 1768 a joking \"Annual Register\" announced that Sheppard was still alive, in good health, and 120 years old."
+    ]
+   ],
+   [
+    "Nicholas Sheppard",
+    [
+     "Nicholas Sheppard( or Shepherd)( died 1587) was an English churchman and academic, Master of St John's College, Cambridge and Archdeacon of Northampton."
+    ]
+   ],
+   [
+    "William Whitaker (geologist)",
+    [
+     "William Whitaker was born on 4 May 1836 in London,"
+    ]
+   ],
+   [
+    "William Whitaker (1629–1672)",
+    [
+     "William Whitaker( 1629 – 1672) was an English ejected minister."
+    ]
+   ],
+   [
+    "William Whitaker Reed",
+    [
+     "William Whitaker Reed (January 23, 1816 - August 21, 1891) was a Tennessee native and a pioneer in the settlement of Bell County, Texas."
+    ]
+   ],
+   [
+    "Billy Whitaker",
+    [
+     "William Whitaker( 1923–1995) was an English professional footballer who played in the Football League, as a defender."
+    ]
+   ],
+   [
+    "George Basil",
+    [
+     "George William Basil is an American actor and producer."
+    ]
+   ],
+   [
+    "George Oghani",
+    [
+     "George William Oghani( born 2 September 1960) is an English former footballer."
+    ]
+   ],
+   [
+    "George William Patchett",
+    [
+     "George William Patchett was a British motorcycle racer and engineer."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Fleetwood Sheppard",
+    0
+   ],
+   [
+    "George William Whitaker",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Fleetwood Sheppard",
+    "date of death",
+    "25 August 1698"
+   ],
+   [
+    "George William Whitaker",
+    "date of death",
+    "March 6, 1916"
+   ]
+  ],
+  "answer": "Fleetwood Sheppard"
+ },
+ {
+  "_id": "3f857208086c11ebbd61ac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?",
+  "context": [
+   [
+    "Dani Kouyaté",
+    [
+     "Dani Kouyaté( born June 4, 1961) is a film director and griot from Burkina Faso, which the BBC describes as\" Africa's most important film- making country\"."
+    ]
+   ],
+   [
+    "Markku Lehmuskallio",
+    [
+     "Markku Lehmuskallio( born 31 December 1938) is a Finnish film director, cinematographer and screenwriter.",
+     "He has directed 26 films since 1973.",
+     "His 1980 film\" The Raven's Dance\" was entered into the 30th Berlin International Film Festival, where it won an Honourable Mention."
+    ]
+   ],
+   [
+    "The Raven's Dance",
+    [
+     "The Raven's Dance is a 1980 Finnish film directed by Markku Lehmuskallio.",
+     "It was entered into the 30th Berlin International Film Festival, where it won an Honourable Mention."
+    ]
+   ],
+   [
+    "Henry Moore (cricketer)",
+    [
+     "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand."
+    ]
+   ],
+   [
+    "When the Raven Flies",
+    [
+     "When the Raven Flies( original) is a 1984 Icelandic- Swedish adventure film written and directed by Hrafn Gunnlaugsson.",
+     "The story is set in Viking Age Iceland.",
+     "The film was selected as the Icelandic entry for the Best Foreign Language Film at the 57th Academy Awards, but was not accepted as a nominee.",
+     "In 2016, online newspaper Kjarninn voted it as the best Icelandic film of all time.",
+     "Although mainly a tale of personal revenge,\" When the Raven Flies\" bears a clear resemblance to the classic Akira Kurosawa film\" Yojimbo\", sharing common plot events, characters and action sequences.",
+     "Gunnlaugsson also drew inspiration from the Sagas of Icelanders and aimed to deconstruct the Viking stereotypes, replacing them with more authentic portrayals of the Viking era.",
+     "\" When the Raven Flies\" is the first film of the\" Raven Trilogy\"( also known as the\" Viking Trilogy\") that consists of three Viking films:\" When the Raven Flies\"( 1984, usually known as simply\" The Raven\" or\" Revenge of the Barbarians In the Shadow of the Raven\"( 1987, original Icelandic title:\" Í skugga hrafnsins\") and\" Embla\"( 1991, original Icelandic title:\" Hvíti víkingurinn\"), which is a director's cut of\" The White Viking\"."
+    ]
+   ],
+   [
+    "The Raven (2006 film)",
+    [
+     "The Raven is a 2006 American direct- to- video production horror film directed by Ulli Lommel and references the poem\" The Raven\" by Edgar Allan Poe.",
+     "The DVD case cover art carries the title,\" Edgar Allan Poe's The Raven\"."
+    ]
+   ],
+   [
+    "Wale Adebanwi",
+    [
+     "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford."
+    ]
+   ],
+   [
+    "Claude Weisz",
+    [
+     "Claude Weisz is a French film director born in Paris."
+    ]
+   ],
+   [
+    "Keïta! l'Héritage du griot",
+    [
+     "Keïta!",
+     "l'Héritage du griot (English title: \"Keita!",
+     "Voice of the Griot \") is a 1995 Burkinabé drama film directed by Dani Kouyaté and starring Sotigui Kouyaté."
+    ]
+   ],
+   [
+    "Seydou Boro",
+    [
+     "Seydou Boro is a Burkinabé actor, dancer, and choreographer.",
+     "He played the lead in the 1995 Dani Kouyate- directed film\" Keïta! l' Héritage du griot\"."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "The Raven's Dance",
+    0
+   ],
+   [
+    "Keïta! l'Héritage du griot",
+    2
+   ],
+   [
+    "Markku Lehmuskallio",
+    0
+   ],
+   [
+    "Dani Kouyaté",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "The Raven's Dance",
+    "director",
+    "Markku Lehmuskallio"
+   ],
+   [
+    "Keïta! l'Héritage du griot",
+    "director",
+    "Dani Kouyaté"
+   ],
+   [
+    "Markku Lehmuskallio",
+    "date of birth",
+    "31 December 1938"
+   ],
+   [
+    "Dani Kouyaté",
+    "date of birth",
+    "June 4, 1961"
+   ]
+  ],
+  "answer": "The Raven'S Dance"
+ },
+ {
+  "_id": "dfe93efe0bdd11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "When did Jean Martin (Singer)'s husband die?",
+  "context": [
+   [
+    "Theodred II (Bishop of Elmham)",
+    [
+     "Theodred II was a medieval Bishop of Elmham.",
+     "The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997."
+    ]
+   ],
+   [
+    "William Black (businessman)",
+    [
+     "William Black (c. 1902 – March 7, 1983) was an American businessman and philanthropist who founded Chock full o'Nuts.",
+     "He was known as a considerate employer who provided benefits, such as medical insurance, pension plans and bonuses, for his predominantly African-American employees.",
+     "He also donated millions of dollars to medical research."
+    ]
+   ],
+   [
+    "Carla Martin",
+    [
+     "Carla Jean Martin( born c. 1954) is an American lawyer."
+    ]
+   ],
+   [
+    "Thomas Scott (diver)",
+    [
+     "Thomas Scott( 1907- date of death unknown) was an English diver."
+    ]
+   ],
+   [
+    "Albert Thompson (footballer, born 1912)",
+    [
+     "Albert Thompson( born 1912, date of death unknown) was a Welsh footballer."
+    ]
+   ],
+   [
+    "Etan Boritzer",
+    [
+     "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989.",
+     "His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals.",
+     "Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views.",
+     "The other current books in the\" What is?\" series include",
+     "What is Love?,",
+     "What is Death?,",
+     "What is Beautiful?,",
+     "What is Funny?,",
+     "What is Right?,",
+     "What is Peace?,",
+     "What is Money?,",
+     "What is Dreaming?,",
+     "What is a Friend?,",
+     "What is True?,",
+     "What is a Family?,",
+     "What is a Feeling?\"",
+     "The series is now also translated into 15 languages.",
+     "Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy.",
+     "His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education.",
+     "Boritzer now lives in Venice, California and maintains his publishing office there also.",
+     "He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs.",
+     "Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally.",
+     "He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\""
+    ]
+   ],
+   [
+    "Harry Johnson (wrestler)",
+    [
+     "Harry Johnson( 1903- date of death unknown) was an English wrestler."
+    ]
+   ],
+   [
+    "Harry Wainwright (footballer)",
+    [
+     "Harry Wainwright( born 1899; date of death unknown) was an English footballer."
+    ]
+   ],
+   [
+    "Bill Smith (footballer, born 1897)",
+    [
+     "William Thomas Smith( born 9 April 1897, date of death unknown) was an English professional footballer."
+    ]
+   ],
+   [
+    "Jean Martin (singer)",
+    [
+     "Jean Martin (1919–2004) was an American singer and actor.",
+     "Born in Texas, she moved to New York and worked in radio and television during the 1950s.",
+     "She was married to William Black, who was the founder of the Chock full o'Nuts restaurant chain and coffee brand."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Jean Martin (singer)",
+    2
+   ],
+   [
+    "William Black (businessman)",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Jean Martin",
+    "spouse",
+    "William Black"
+   ],
+   [
+    "William Black",
+    "date of death",
+    "1983"
+   ]
+  ],
+  "answer": "1983"
+ },
+ {
+  "_id": "1d890623088711ebbd6dac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?",
+  "context": [
+   [
+    "Frank R. Strayer",
+    [
+     "Frank R. Strayer( September 21, 1891 – February 3, 1964) was an actor, film writer, director and producer.",
+     "He was active from the mid-1920s until the early 1950s."
+    ]
+   ],
+   [
+    "Tangled Destinies",
+    [
+     "Tangled Destinies is a 1932 American film directed by Frank R. Strayer.",
+     "The film is also known as Who Killed Harvey Forbes?",
+     "in the United Kingdom."
+    ]
+   ],
+   [
+    "G. Marthandan",
+    [
+     "G. Marthandan is an Indian film director who works in Malayalam cinema."
+    ]
+   ],
+   [
+    "Thomas Carr (director)",
+    [
+     "Thomas Carr( July 4, 1907 – April 23, 1997) was an American actor and film director of Hollywood movies and television programs.",
+     "Often billed as\" Tommy Carr\", he later adopted his more formal\" Thomas Carr\" birth name as his billing name."
+    ]
+   ],
+   [
+    "Ben Palmer",
+    [
+     "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\"."
+    ]
+   ],
+   [
+    "The Daltons Ride Again",
+    [
+     "The Daltons Ride Again is a 1945 American Western film directed by Ray Taylor.",
+     "It stars Lon Chaney Jr., Alan Curtis, and Kent Taylor.",
+     "It was made by Universal Pictures."
+    ]
+   ],
+   [
+    "When the Daltons Rode",
+    [
+     "When the Daltons Rode is a 1940 American Western film directed by George Marshall and starring Randolph Scott, Kay Francis and Brian Donlevy.",
+     "Based on the book\" When the Daltons Rode\" by Emmett Dalton, the sole surviving real- life gang member, and Jack Jungmeyer, the film is about a family friend of the Daltons who tries to dissuade them from becoming outlaws."
+    ]
+   ],
+   [
+    "The Daltons' Women",
+    [
+     "The Daltons' Women is a 1950 American film directed by Thomas Carr starring Lash LaRue and Al \"Fuzzy\" St. John.",
+     "It was the seventh of LaRue's films for Ron Ormond's Western Adventures Productions Inc..",
+     "The film was the first to be released by Howco, Ron Ormond's new film company composed of Ormond and drive-in movie owners Joy N. Houck and J. Francis White, and director Thomas Carr's first film in the Lash LaRue series.",
+     "The film features appearances by several well known stars such as Jack Holt, Tom Tyler and Tom Neal and a lengthier running time of 77 minutes featuring a multitude of musical numbers, juggling, and a lengthy catfight.",
+     "Though the Women of the title have little to do with the narrative of the film, \"the frontier's first dance hall belles\" were played up in the publicity with the original film trailer giving Lash LaRue last billing.",
+     "The film was shot at the Iverson Movie Ranch."
+    ]
+   ],
+   [
+    "Jesse James vs. the Daltons",
+    [
+     "Jesse James",
+     "Vs. the Daltons is a 1954 3D film Technicolor Western film directed by William Castle.",
+     "One of three films shot by Castle in 3- D during the 1950s 3- D' golden era'."
+    ]
+   ],
+   [
+    "Abhishek Saxena",
+    [
+     "Abhishek Saxena is an Indian Bollywood and Punjabi film director who directed the movie Phullu.",
+     "The Phullu movie was released in theaters on 16 June 2017, in which film Sharib Hashmi is the lead role.",
+     "Apart from these, he has also directed Patiala Dreamz, this is a Punjabi film.",
+     "This film was screened in cinemas in 2014."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Tangled Destinies",
+    0
+   ],
+   [
+    "The Daltons' Women",
+    0
+   ],
+   [
+    "Frank R. Strayer",
+    0
+   ],
+   [
+    "Thomas Carr (director)",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Tangled Destinies",
+    "director",
+    "Frank R. Strayer"
+   ],
+   [
+    "The Daltons' Women",
+    "director",
+    "Thomas Carr"
+   ],
+   [
+    "Frank R. Strayer",
+    "date of death",
+    "February 3, 1964"
+   ],
+   [
+    "Thomas Carr (director)",
+    "date of death",
+    "April 23, 1997"
+   ]
+  ],
+  "answer": "Tangled Destinies"
+ },
+ {
+  "_id": "d8c36503097411ebbdb0ac1f6bf848b6",
+  "type": "comparison",
+  "question": "Which film was released earlier, Moment Of Danger or The Ballad Of Josie?",
+  "context": [
+   [
+    "Moment of Danger",
+    [
+     "Moment of Danger( also known as Malaga) is a 1960 crime drama film starring Trevor Howard, Dorothy Dandridge and Edmund Purdom.",
+     "It was filmed in Europe in the late months of 1959.",
+     "The film is based on the novel by Donald Mackenzie, and it was brought to the screen by David D. Osborn.",
+     "The film proved to be the final completed film for Dorothy Dandridge."
+    ]
+   ],
+   [
+    "Point Danger",
+    [
+     "Point Danger or Danger Point may refer:"
+    ]
+   ],
+   [
+    "The Ballad of Cossack Golota",
+    [
+     "The Ballad of Cossack Golota is a 1937 Soviet action drama film directed by Igor Savchenko."
+    ]
+   ],
+   [
+    "The Ballad of Josie",
+    [
+     "The Ballad of Josie is a 1967 Technicolor American comedy western film directed by Andrew V. McLaglen and starring Doris Day, Peter Graves and George Kennedy.",
+     "It humorously tackles 1960s themes of feminism in a traditional Western setting.",
+     "The film featured the last acting role for William Talman.",
+     "It was filmed on two locations in Thousand Oaks, California: North Ranch and Wildwood Regional Park."
+    ]
+   ],
+   [
+    "The Ballad of Uhlans",
+    [
+     "The Ballad of Uhlans(\" Уланская баллада\") is a 2012 Russian historical adventure film directed by Oleg Fesenko, and stars Sergei Bezrukov, Anna Chipovskaya, Anton Sokolov and Vladimir Gostyukhin.",
+     "\" The Ballad of Uhlans\" was released on 1 November 2012 in Russia."
+    ]
+   ],
+   [
+    "Eskimo Nell (film)",
+    [
+     "Eskimo Nell, also known as\" The Ballad of Eskimo Nell\" and as\" The Sexy Saga of Naughty Nell and Big Dick\", is a 1975 British film directed by Martin Campbell and produced by Stanley Long.",
+     "Though inspired by\" The Ballad of Eskimo Nell\", the movie owes little to the original bawdy song."
+    ]
+   ],
+   [
+    "The Ballad of Uhlans",
+    [
+     "The Ballad of Uhlans(\" Уланская баллада\") is a 2012 Russian historical adventure film directed by Oleg Fesenko, and stars Sergei Bezrukov, Anna Chipovskaya, Anton Sokolov and Vladimir Gostyukhin.",
+     "\" The Ballad of Uhlans\" was released on 1 November 2012 in Russia."
+    ]
+   ],
+   [
+    "The Ballad of Little Joe",
+    [
+     "The Ballad of Little Joe is a 2003 American computer- animated western film produced by Big Idea Productions and released theatrically by Classic Media on August 5, 2003.",
+     "It is the twentieth episode of VeggieTales.",
+     "The story is based after 1993's\" The Ballad of Little Jo\", which came out ten years before.",
+     "It was directed by Tim Hodge, produced by David Pitts and written by Robert G. Lee, the film stars the voices of Phil Vischer, Mike Nawrocki, Jim Poole, Jacquelyn Ritz, Mike Sage( in his final acting role), Lisa Vischer, and Tim Hodge."
+    ]
+   ],
+   [
+    "Moment of Truth",
+    [
+     "Moment of Truth or The Moment of Truth may refer to:"
+    ]
+   ],
+   [
+    "The Ballad of Narayama",
+    [
+     "The Ballad of Narayama may refer to:"
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Moment of Danger",
+    0
+   ],
+   [
+    "The Ballad of Josie",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Moment of Danger",
+    "publication date",
+    "1960"
+   ],
+   [
+    "The Ballad of Josie",
+    "publication date",
+    "1967"
+   ]
+  ],
+  "answer": "Moment Of Danger"
+ },
+ {
+  "_id": "2207e9060bda11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "What nationality is the director of film World And Time Enough?",
+  "context": [
+   [
+    "M. Venkataraju",
+    [
+     "M Venkataraju, was a music director/ composer of Kannada film world."
+    ]
+   ],
+   [
+    "World and Time Enough",
+    [
+     "World and Time",
+     "Enough is a 1994 independent gay-themed romantic comedy-drama written and directed by Eric Mueller and starring Gregory Giles, Matt Guidry and Kraig Swartz.",
+     "It was filmed on location in Edina and Minneapolis, Minnesota."
+    ]
+   ],
+   [
+    "Michael Govan",
+    [
+     "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006.",
+     "Prior to this, Govan worked as the director of the Dia Art Foundation in New York City."
+    ]
+   ],
+   [
+    "Eric Mueller",
+    [
+     "Eric C. Mueller (born November 6, 1970) is a former Olympic and National team rower, representing the United States at the 1996 and 2000 Olympics.",
+     "He was born in Kansas City, Missouri.",
+     "Mueller, one of the most successful men's rowers in Wisconsin history, begins his third season as the Badgers' freshmen coach.",
+     "Mueller returns to Madison for the second time as an assistant coach.",
+     "He spent 1998–99 as the assistant varsity coach, before leaving to train for the 2000 Olympic Summer Games in Sydney, Australia.",
+     "During his previous stint, he was responsible for the Badgers' small boats and led them to four gold medals and one silver medal at the Intercollegiate Rowing Association national championships.",
+     "The result helped Wisconsin begin a four-year run as winners of the Ten Eyck Trophy as national team points champion.",
+     "Since his return, the UW freshmen have improved from a bottom six national finish in the year before his joining the program to a return to the national grand finals.",
+     "As a rower, Mueller secured three letters at Wisconsin while a member of the varsity eight from 1991–93.",
+     "At national championships during his career, the boat placed sixth, once, and ninth, twice.",
+     "A Cedarburg, native",
+     ", Mueller earned a bachelor's degree in mechanical engineering from Wisconsin in 1994.",
+     "Following his Badger career, Mueller went on to win an Olympic silver medal in the men's quadruple sculls in 1996 in Atlanta.",
+     "He also placed fifth at the 2000 Olympics with the men's four.",
+     "U.S. national team member in 1995, ‘96, ‘00, ‘01 and ‘02",
+     ", he was part of the men's eight champion at the 2002 World Cup in Lucerne, Switzerland, and finished third at the 2002 World Championships in Seville, Spain.",
+     "His men's four took fourth at the 2001 World Championships, while his men's eight was a bronze medalist at the 2000 World Cup, again in Lucerne.",
+     "He also won a bronze medal with the men's quadruple sculls in Lucerne at the 1996 World Cup."
+    ]
+   ],
+   [
+    "Peter Levin",
+    [
+     "Peter Levin is an American director of film, television and theatre."
+    ]
+   ],
+   [
+    "Olav Aaraas",
+    [
+     "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director.",
+     "He was born in Fredrikstad.",
+     "From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History.",
+     "In 2010 he was decorated with the Royal Norwegian Order of St. Olav."
+    ]
+   ],
+   [
+    "Ian Barry (director)",
+    [
+     "Ian Barry is an Australian director of film and TV."
+    ]
+   ],
+   [
+    "John Farrell (businessman)",
+    [
+     "John Farrell is the director of YouTube in Latin America."
+    ]
+   ],
+   [
+    "John Donatich",
+    [
+     "John Donatich is the Director of Yale University Press."
+    ]
+   ],
+   [
+    "Dana Blankstein",
+    [
+     "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television.",
+     "She is a film director, and an Israeli culture entrepreneur."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "World and Time Enough",
+    1
+   ],
+   [
+    "Eric Mueller",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "World and Time Enough",
+    "director",
+    "Eric Mueller"
+   ],
+   [
+    "Eric Mueller",
+    "country of citizenship",
+    "United States"
+   ]
+  ],
+  "answer": "United States"
+ },
+ {
+  "_id": "7abc1e3008d511ebbd98ac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?",
+  "context": [
+   [
+    "Poker in Bed",
+    [
+     "La signora gioca bene a scopa?, internationally released as Poker in Bed, is a 1974 commedia sexy all'italiana directed by Giuliano Carnimeo."
+    ]
+   ],
+   [
+    "Luigi Torchi",
+    [
+     "Luigi Torchi invented the first direct multiplication machine in 1834.",
+     "This was also the second key- driven machine in the world, following that of James White( 1822).",
+     "Very little is known about the inventor and the machine.",
+     "We only know that he was a carpenter; his machine was awarded of a gold metal from the Imperial- regio istituto lombardo di scienze, lettere e arti in Milan in 1834.",
+     "A document of such occasion provides the known details of the machine, where a second document shows a drawing of the machine itself.",
+     "However, no detailed documents about how it worked are known to exist.",
+     "The machine was exhibited in Brera between 1834 and 1837; it was later found by Giovanni Schiaparelli in bad conditions.",
+     "After that, are not known further information about the machine."
+    ]
+   ],
+   [
+    "Charles Redheffer",
+    [
+     "Charles Redheffer was an American inventor who claimed to have invented a perpetual motion machine.",
+     "First appearing in Philadelphia, Redheffer exhibited his machine to the public, charging high prices for viewing.",
+     "When he applied to the government for more money, a group of inspectors were sent to examine the machine.",
+     "It was discovered the machine was actually powered by a device Redheffer claimed was powered by the machine.",
+     "Redheffer moved to New York City and set up a similar scam after rebuilding his machine.",
+     "However, an engineer detected that it was a fake by listening to its unsteady motions at an exhibition.",
+     "He discovered that the machine was operated by a man using a crank in a room on the floor above.",
+     "Redheffer returned to Philadelphia.",
+     "He later claimed to have created another machine, but refused to demonstrate it to anyone.",
+     "He managed to get a patent for his machine in 1820, but after this his fate is unknown."
+    ]
+   ],
+   [
+    "The Machine to Kill Bad People",
+    [
+     "The Machine to Kill Bad People( Italian: La Macchina ammazzacattivi) is a 1952 Italian fantasy comedy film directed by Roberto Rossellini and featuring Marilyn Buferd, William Tubbs and Clara Bindi.",
+     "It is part of the tradition of neorealism of the post-war years.",
+     "Having helped neorealism gain international recognition with his 1945 work\" Rome, Open City\", Rossellini was trying to branch out into different styles."
+    ]
+   ],
+   [
+    "Le Masque de la Méduse",
+    [
+     "Le masque de la Méduse is a 2009 fantasy horror film directed by Jean Rollin.",
+     "The film is a modern-day telling of the Greek mythological tale of the Gorgon and was inspired by the 1964 classic Hammer Horror film of the same name and the 1981 cult classic\" Clash of the Titans\".",
+     "It was Rollin's final film, as the director died in 2010."
+    ]
+   ],
+   [
+    "Anders Henriksson (poker player)",
+    [
+     "Anders Henriksson( born 1981) is a Swedish poker player who won a bracelet at the World Series of Poker in 2006."
+    ]
+   ],
+   [
+    "Giuliano Carnimeo",
+    [
+     "Giuliano Carnimeo (4 July 1932 – 10 September 2016) was an Italian director and screenwriter, sometimes credited as Anthony Ascott."
+    ]
+   ],
+   [
+    "Thulasi (1987 film)",
+    [
+     "Thulasi is a 1987 Tamil romantic drama film directed by Ameerjan.",
+     "The film features Murali and Seetha in lead roles.",
+     "The film, produced by P. S. V. Hariharan, had musical score by Sampath Selvam and was released on 27 November 1987.",
+     "The music director died before the release of the film."
+    ]
+   ],
+   [
+    "Querelle",
+    [
+     "Querelle is a 1982 West German- French English- language drama film directed by Rainer Werner Fassbinder and starring Brad Davis, adapted from French author Jean Genet's 1947 novel\" Querelle of Brest\".",
+     "It marked Fassbinder's final film as a writer/ director; it was posthumously released just months after the director died of a drug overdose in June 1982."
+    ]
+   ],
+   [
+    "Roberto Rossellini",
+    [
+     "Roberto Gastone Zeffiro Rossellini( 8 May 1906 – 3 June 1977) was an Italian film director, screenwriter, and producer.",
+     "Rossellini was one of the directors of the Italian neorealist cinema, contributing to the movement with films such as\" Rome, Open City\"( 1945),\" Paisan\"( 1946),\" Germany, Year Zero\"( 1948), and\" General Della Rovere\"( 1959)."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Poker in Bed",
+    0
+   ],
+   [
+    "The Machine to Kill Bad People",
+    0
+   ],
+   [
+    "Giuliano Carnimeo",
+    0
+   ],
+   [
+    "Roberto Rossellini",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Poker in Bed",
+    "director",
+    "Giuliano Carnimeo"
+   ],
+   [
+    "The Machine to Kill Bad People",
+    "director",
+    "Roberto Rossellini"
+   ],
+   [
+    "Giuliano Carnimeo",
+    "date of death",
+    "10 September 2016"
+   ],
+   [
+    "Roberto Rossellini",
+    "date of death",
+    "3 June 1977"
+   ]
+  ],
+  "answer": "The Machine To Kill Bad People"
+ },
+ {
+  "_id": "ae331827088b11ebbd6fac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film whose director is younger, Heads I Win, Tails You Lose or The Incredible Sarah?",
+  "context": [
+   [
+    "Miloš Zličić",
+    [
+     "Miloš Zličić( born 29 December 1999) is a Serbian football forward.",
+     "He is a younger brother of Lazar Zličić."
+    ]
+   ],
+   [
+    "Heads I Win, Tails You Lose",
+    [
+     "Heads I Win, Tails You Lose( also known as\" Heads or Tails\") is a 1982 Italian comedy film written and directed by Nanni Loy.",
+     "The film consists in two back- to- back stories that deals with two\" taboo\" themes, the celibacy of the clergy in the episode of Renato Pozzetto and the homosexuality in the one with Nino Manfredi."
+    ]
+   ],
+   [
+    "The Incredible Sarah",
+    [
+     "The Incredible Sarah is a 1976 British drama film directed by Richard Fleischer and starring Glenda Jackson.",
+     "It presents a dramatization of the acting career of Sarah Bernhardt."
+    ]
+   ],
+   [
+    "Danny Murphy (British actor)",
+    [
+     "Danny Murphy( born) is a British deaf actor who appeared in the 2019 film\" The Parts You Lose\" alongside Aaron Paul.",
+     "Murphy is fluent in British Sign Language."
+    ]
+   ],
+   [
+    "Anthony Mendleson",
+    [
+     "Anthony Mendleson (7 February 1915 – 5 September 1996) was a British costume and set designer.",
+     "He was nominated for the Academy Award for Best Costume Design in 1972 for \"Young Winston\", and in 1976 for \"The Incredible Sarah\".",
+     "He was born on 7 February 1915 in Chiswick, London and died in London on 5 September 1996."
+    ]
+   ],
+   [
+    "Richard Fleischer",
+    [
+     "Richard O. Fleischer( December 8, 1916 – March 25, 2006) was an American film director known for such movies as\" The Narrow Margin\"( 1952),\" 20,000 Leagues Under the Sea\"( 1954),\" Fantastic Voyage\"( 1966), the Oscar- award winning musical film\" Doctor Dolittle\"( 1967) and\" Soylent Green\"( 1973)."
+    ]
+   ],
+   [
+    "Nanni Loy",
+    [
+     "Nanni Loy( born Giovanni Loi; 23 October 1925 – 21 August 1995) was an Italian film, theatre and TV director.",
+     "Specifically, Nanni Loy was Sardinian, and one of several notable Sardinian film makers, including Franco Solinas.",
+     "Loy was born in Cagliari, Sardinia: his father was Guglielmo Loy- Donà, a lawyer issue from a distinguished Sardinian- Venetian family, and his mother was the noblewoman Donna Anna Sanjust of the Marquesses of Neoneli.",
+     "Rosetta Loy, an Italian novelist, is his sister- in- law.",
+     "He became famous for introducing in Italy the candid camera with his show\" Specchio segreto\"( Secret mirror) in 1965.",
+     "His 1962 film\" The Four Days of Naples\" was nominated for two Academy Awards.",
+     "It also won the FIPRESCI Prize at the 3rd Moscow International Film Festival in 1963.",
+     "His 1971 film\" Detenuto in attesa di giudizio\" was entered into the 22nd Berlin International Film Festival.",
+     "The star, Alberto Sordi, won the Silver Bear for Best Actor award.",
+     "He specialized in comedy films such as\" Padre di famiglia\" but he also shot film dealing with social themes(\" Detenuto in attesa di giudizio\" and\" Sistemo l' America e torno\").",
+     "Loy died at Fregene, near Rome, in 1995."
+    ]
+   ],
+   [
+    "The Parts You Lose",
+    [
+     "The Parts You Lose is a 2019 American thriller film starring Aaron Paul and Danny Murphy as a fugitive criminal and a deaf boy who befriend one another.",
+     "Mary Elizabeth Winstead and Scoot McNairy also star as the boy's parents.",
+     "The film is directed by Christopher Cantwell based on a screenplay by Darren Lemke.",
+     "The H Collective financed Gran Via's production of the film.",
+     "Filming took place in Winnipeg, Canada.",
+     "\" The Parts You Lose\" had its world premiere on March 14, 2019 at the 2019 Sun Valley Film Festival in Sun Valley, Idaho.",
+     "Samuel Goldwyn",
+     "Films released the film commercially in the United States on October 4, 2019."
+    ]
+   ],
+   [
+    "Vadim Vlasov",
+    [
+     "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player.",
+     "He is a younger brother of Dmitri Vlasov."
+    ]
+   ],
+   [
+    "La Bestia humana",
+    [
+     "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Heads I Win, Tails You Lose",
+    0
+   ],
+   [
+    "The Incredible Sarah",
+    0
+   ],
+   [
+    "Nanni Loy",
+    0
+   ],
+   [
+    "Richard Fleischer",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Heads I Win, Tails You Lose",
+    "director",
+    "Nanni Loy"
+   ],
+   [
+    "The Incredible Sarah",
+    "director",
+    "Richard Fleischer"
+   ],
+   [
+    "Nanni Loy",
+    "date of birth",
+    "23 October 1925"
+   ],
+   [
+    "Richard Fleischer",
+    "date of birth",
+    "December 8, 1916"
+   ]
+  ],
+  "answer": "Heads I Win, Tails You Lose"
+ },
+ {
+  "_id": "2002bf0c0bb011ebab90acde48001122",
+  "type": "inference",
+  "question": "Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?",
+  "context": [
+   [
+    "Elisabeth of Hesse, Countess Palatine of Zweibrücken",
+    [
+     "Elisabeth of Hesse (4 March 1503 – 4 January 1563, Lauingen) was a Landgravine of Hesse by birth and by marriage Countess Palatine of Zweibrücken and later Countess Palatine of Simmern."
+    ]
+   ],
+   [
+    "Countess Palatine Dorothea of Simmern",
+    [
+     "Countess Palatine Dorothea of Simmern (6 January 1581 – 18 September 1631) was a Countess Palatine of Simmern by birth and Princess of Anhalt-Dessau by marriage."
+    ]
+   ],
+   [
+    "Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler",
+    [
+     "Countess Palatine Dorothea Catherine of Birkenfeld-Bischweiler (3 July 1634 – 7 December 1715) was a Countess Palatine of Zweibrücken-Birkenfeld-Bischweiler by birth and, by marriage, Countess of Nassau-Ottweiler."
+    ]
+   ],
+   [
+    "John, Count Palatine of Neumarkt",
+    [
+     "John (Johann von Pfalz-Neumarkt; 1383 – 14 March 1443) was the Count Palatine of Neumarkt from 1410 to his death.",
+     "The son of Rupert III of the Palatinate, he married Catherine of Pomerania in 1407.",
+     "He is mainly known for his crushing victory against the Hussites at the Battle of Hiltersried in 1433."
+    ]
+   ],
+   [
+    "Catherine of Pomerania, Countess Palatine of Neumarkt",
+    [
+     "Catherine of Pomerania",
+     "(German: \"",
+     "Katharina von Pommern\"; c. 1390 - 4 March 1426), was a Pomeranian princess and Countess Palatine of Neumarkt.",
+     "She was the wife of John, Count Palatine of Neumarkt and the mother of Christopher of Bavaria, who would rule over Denmark, Sweden, and Norway as king of the Kalmar Union."
+    ]
+   ],
+   [
+    "Countess Palatine Anna Magdalena of Birkenfeld-Bischweiler",
+    [
+     "Countess Palatine Anna Magdalena of Birkenfeld- Bischweiler( 14 February 1640, Strasbourg – 12 December 1693, Babenhausen) was a daughter of Christian I, Count Palatine of Birkenfeld- Bischweiler( 1598 – 1654) and his first wife, Countess Palatine Magdalene Catherine of Zweibrücken( 1606 – 1648)."
+    ]
+   ],
+   [
+    "Countess Palatine Anna Maria of Neuburg",
+    [
+     "Countess Palatine Anna Maria of Neuburg( 18 August 1575, Neuburg an der Donau – 11 February 1643, Dornburg) was Countess Palatine of Neuburg and by marriage Duchess of Saxe- Weimar."
+    ]
+   ],
+   [
+    "Countess Palatine Barbara of Zweibrücken-Neuburg",
+    [
+     "Countess Palatine Barbara of Zweibrücken-Neuburg (27 July 1559 – 5 March 1618) was a Countess Palatine of Zweibrücken by birth and by marriage Countess of Oettingen-Oettingen."
+    ]
+   ],
+   [
+    "Countess Palatine Magdalene Catherine of Zweibrücken",
+    [
+     "Magdalena Catherine, Countess Palatine of Zweibrücken( 26 April 1607, Zweibrücken – 20 January 1648, Strasbourg) was a Countess Palatine of Zweibrücken by birth and by marriage Duchess and Countess Palatine of Birkenfeld."
+    ]
+   ],
+   [
+    "Countess Palatine Maria Franziska of Sulzbach",
+    [
+     "Countess Palatine Maria Francisca of Sulzbach (\"Maria Franziska, Pfalzgräfin von Sulzbach\"; 15 June 1724 – 15 November 1794), was a Countess Palatine of Zweibrücken-Birkenfeld by marriage to Frederick Michael, Count Palatine of Zweibrücken-Birkenfeld.",
+     "Born in Schwetzingen, she was the fifth child of Joseph Karl, Count Palatine of Sulzbach and Countess Palatine Elizabeth Auguste Sophie of Neuburg.",
+     "From her six siblings, only she and two older sisters survive adulthood: Elisabeth Auguste and Maria Anna."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Catherine of Pomerania, Countess Palatine of Neumarkt",
+    3
+   ],
+   [
+    "John, Count Palatine of Neumarkt",
+    1
+   ]
+  ],
+  "evidences": [
+   [
+    "Catherine of Pomerania, Countess Palatine of Neumarkt",
+    "spouse",
+    "John"
+   ],
+   [
+    "John",
+    "father",
+    "Rupert"
+   ]
+  ],
+  "answer": "Rupert"
+ },
+ {
+  "_id": "c531e7560baf11ebab90acde48001122",
+  "type": "inference",
+  "question": "Who is Marie Zéphyrine Of France's paternal grandmother?",
+  "context": [
+   [
+    "Gülbahar Hatun (wife of Mehmed II)",
+    [
+     "Gülbahar Hatun( 1432 – 1492) was the consort of Sultan Mehmed II, and mother of Sultan Bayezid II of the Ottoman Empire and the grandmother of Selim I."
+    ]
+   ],
+   [
+    "Tjuyu",
+    [
+     "Tjuyu( sometimes transliterated as Thuya or Thuyu) was an Egyptian noblewoman and the mother of queen Tiye, and the wife of Yuya.",
+     "She is the grandmother of Akhenaten, and great grandmother of Tutankhamun."
+    ]
+   ],
+   [
+    "Mona Hopton Bell",
+    [
+     "Mona Hopton Bell( 1867- 1940) was a British artist, best known for her portraits of civic figures.",
+     "She was the grandmother of the painter Jean H. Bell."
+    ]
+   ],
+   [
+    "Hannah Arnold",
+    [
+     "Hannah Arnold, also known as Hannah Waterman King, was the grandmother of Benedict Arnolds children."
+    ]
+   ],
+   [
+    "Anne Denman",
+    [
+     "Anne Denman( 1587–1661) was born in Olde Hall, Retford, Nottinghamshire.",
+     "Through a fortunate second marriage with Thomas Aylesbury, she became the grandmother of Lady Anne Hyde, Duchess of York and great- grandmother of Queen Mary II and Queen Anne."
+    ]
+   ],
+   [
+    "Princess Marie of Hanover",
+    [
+     "Princess Marie of Hanover (2 December 1849 – 4 June 1904) was the younger daughter of King George V of Hanover and of his wife, Princess Marie of Saxe-Altenburg."
+    ]
+   ],
+   [
+    "Marie Zéphyrine of France",
+    [
+     "Marie Zéphyrine of France (26 August 1750 – 2 September 1755) was a French princess, the daughter of Louis, Dauphin of France, and Maria Josepha of Saxony.",
+     "Marie Zéphyrine, known as \"Madame Royale\" or \"la Petite Madame\", was born at the Palace of Versailles and was named after St Zephyrinus, on whose feast day she was born.",
+     "Her birth was greeted with caution; in the previous two years, Maria Josepha had suffered stillbirths and her health was of a fragile nature.",
+     "Louis XV, on the other hand, had hoped for a grandson.",
+     "Marie Isabelle de Rohan served as Marie Zéphyrine's governess.",
+     "Marie Zéphyrine died at Versailles due to an attack of convulsions, in the early hours of the morning of 2 September, having been baptised just days before by the Abbot of Chabannes.",
+     "She was not officially mourned; a French princess could only be mourned if she was over the age of 7.",
+     "She was buried at the Royal Basilica of Saint Denis outside the capital of Paris."
+    ]
+   ],
+   [
+    "Louis, Dauphin of France (son of Louis XV)",
+    [
+     "Louis, Dauphin of France (4 September 1729 – 20 December 1765) was the elder and only surviving son of King Louis XV of France and his wife, Queen Marie Leszczyńska.",
+     "He had a younger brother, Philippe, who died as a toddler.",
+     "As a son of the king, Louis was a \"fils de France\".",
+     "As heir apparent, he became Dauphin of France.",
+     "However, he died before ascending to the throne.",
+     "Three of his sons became kings of France:",
+     "Louis XVI (reign: 1774–1792), Louis XVIII (reign: 1814–1815; 1815–1824) and Charles X (reign: 1824–1830)."
+    ]
+   ],
+   [
+    "Kaoru Hatoyama",
+    [
+     "After the elections of 2009, she became more widely known as the grandmother of Prime Minister Yukio Hatoyama and his politician brother Kunio Hatoyama."
+    ]
+   ],
+   [
+    "Hubba bint Hulail",
+    [
+     "Hubba bint Hulail was the grandmother of Hashim ibn' Abd Manaf, thus the great- great- great- grandmother of the Islamic\" Nabī\"( Prophet) Muhammad ibn Abdullah."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Marie Zéphyrine of France",
+    0
+   ],
+   [
+    "Louis, Dauphin of France (son of Louis XV)",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Marie Zéphyrine of France",
+    "father",
+    "Louis, Dauphin of France"
+   ],
+   [
+    "Louis, Dauphin of France",
+    "mother",
+    "Marie Leszczyńska"
+   ]
+  ],
+  "answer": "Marie Leszczyńska"
+ },
+ {
+  "_id": "4d982dc308c111ebbd8bac1f6bf848b6",
+  "type": "bridge_comparison",
+  "question": "Which film has the director died earlier, Condemned Women or Faces In The Dark?",
+  "context": [
+   [
+    "Le Masque de la Méduse",
+    [
+     "Le masque de la Méduse is a 2009 fantasy horror film directed by Jean Rollin.",
+     "The film is a modern-day telling of the Greek mythological tale of the Gorgon and was inspired by the 1964 classic Hammer Horror film of the same name and the 1981 cult classic\" Clash of the Titans\".",
+     "It was Rollin's final film, as the director died in 2010."
+    ]
+   ],
+   [
+    "David Eady (film director)",
+    [
+     "David Eady( April 22, 1924- April 5, 2009) was a British film director and producer.",
+     "He was born in London."
+    ]
+   ],
+   [
+    "Condemned Women",
+    [
+     "Condemned Women is a 1938 American drama film directed by Lew Landers and written by Lionel Houser.",
+     "The film stars Sally Eilers, Louis Hayward, Anne Shirley, Esther Dale and Lee Patrick.",
+     "The film was released on March 18, 1938."
+    ]
+   ],
+   [
+    "Querelle",
+    [
+     "Querelle is a 1982 West German- French English- language drama film directed by Rainer Werner Fassbinder and starring Brad Davis, adapted from French author Jean Genet's 1947 novel\" Querelle of Brest\".",
+     "It marked Fassbinder's final film as a writer/ director; it was posthumously released just months after the director died of a drug overdose in June 1982."
+    ]
+   ],
+   [
+    "Faces in the Dark",
+    [
+     "Faces in the Dark is a 1960 British thriller film directed by David Eady and starring John Gregson, Mai Zetterling and John Ireland.",
+     "The film is based on the 1952 novel\" Les Visages de l'ombre\" by Boileau- Narcejac.",
+     "It was shot at Shepperton Studios with sets designed by the art director Anthony Masters."
+    ]
+   ],
+   [
+    "Ravina (actress)",
+    [
+     "Ravina is an Indian actress who acted in Dhallywood movies.",
+     "She acted in\" Praner Cheye Priyo\" which film is considered as turning point of the career of Riaz."
+    ]
+   ],
+   [
+    "Marcela (wrestler)",
+    [
+     "María Elena Santamaría Gómez( born May 31, 1971) is a Mexican professional wrestler, known mainly for her work in the Mexican professional wrestling promotion Consejo Mundial de Lucha Libre( CMLL), where she works under the ring name Marcela.",
+     "As Marcela, she is one of the top\" tecnicas\"( good guy characters, or faces) in CMLL and is a five- time and current CMLL World Women's Champion and one- time Mexican National Women's Champion."
+    ]
+   ],
+   [
+    "Lew Landers",
+    [
+     "Lew Landers( born Louis Friedlander, January 2, 1901 – December 16, 1962) was an American independent film and television director."
+    ]
+   ],
+   [
+    "Thulasi (1987 film)",
+    [
+     "Thulasi is a 1987 Tamil romantic drama film directed by Ameerjan.",
+     "The film features Murali and Seetha in lead roles.",
+     "The film, produced by P. S. V. Hariharan, had musical score by Sampath Selvam and was released on 27 November 1987.",
+     "The music director died before the release of the film."
+    ]
+   ],
+   [
+    "Mohsen Eslamzadeh",
+    [
+     "Mohsen Eslamzadeh is an Iranian documentary filmmaker.",
+     "He is the director of\" Alone Among The Taliban\".",
+     "This film has won the best documentary award at the 44th Athens International Film and Video Festival in the United States.",
+     "This film has won the best documentary award at the 12th Marbella International Film Festival in Spain.",
+     "This film has won the Shahid Avini Award offers."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Condemned Women",
+    0
+   ],
+   [
+    "Faces in the Dark",
+    0
+   ],
+   [
+    "Lew Landers",
+    0
+   ],
+   [
+    "David Eady (film director)",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Condemned Women",
+    "director",
+    "Lew Landers"
+   ],
+   [
+    "Faces in the Dark",
+    "director",
+    "David Eady"
+   ],
+   [
+    "Lew Landers",
+    "date of death",
+    "December 16, 1962"
+   ],
+   [
+    "David Eady (film director)",
+    "date of death",
+    "April 5, 2009"
+   ]
+  ],
+  "answer": "Condemned Women"
+ },
+ {
+  "_id": "a9cc5f240bdb11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Who is the spouse of the director of film Eden And After?",
+  "context": [
+   [
+    "Maria Teresa, Grand Duchess of Luxembourg",
+    [
+     "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri."
+    ]
+   ],
+   [
+    "Marie-Louise Coidavid",
+    [
+     "Marie Louise Coidavid( 1778 – March 11, 1851), was the Queen of the Kingdom of Haiti 1811 – 20 as the spouse of Henri I of Haiti."
+    ]
+   ],
+   [
+    "Gertrude of Bavaria",
+    [
+     "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI."
+    ]
+   ],
+   [
+    "Eden and After",
+    [
+     "Eden and After  is a 1970 French-Czechoslovak drama art film directed by Alain Robbe-Grillet.",
+     "It was entered into the 20th Berlin International Film Festival."
+    ]
+   ],
+   [
+    "Alain Robbe-Grillet",
+    [
+     "Alain Robbe-Grillet (18 August 1922 – 18 February 2008) was a French writer and filmmaker.",
+     "He was one of the figures most associated with the \"Nouveau Roman\" (new novel) trend of the 1960s, along with Nathalie Sarraute, Michel Butor and Claude Simon.",
+     "Alain Robbe-Grillet was elected a member of the Académie française on 25 March 2004, succeeding Maurice Rheims at seat No. 32.",
+     "He was married to Catherine Robbe-Grillet (née Rstakian)."
+    ]
+   ],
+   [
+    "Sophia Magdalena of Denmark",
+    [
+     "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III."
+    ]
+   ],
+   [
+    "Catherine Jourdan",
+    [
+     "Catherine Jourdan( 12 October 1948 – 18 February 2011) was a French actress.",
+     "She appeared in 22 films and television shows between 1967 and 1989.",
+     "She starred in the 1970 film\" Eden and After\", which was entered into the 20th Berlin International Film Festival."
+    ]
+   ],
+   [
+    "Heather D. Gibson",
+    [
+     "Heather Denise Gibson is a Scottish economist currently serving as Director- Advisor to the Bank of Greece( since 2011).",
+     "She is the spouse of Euclid Tsakalotos, former Greek Minister of Finance."
+    ]
+   ],
+   [
+    "Princess Auguste of Bavaria (1875–1964)",
+    [
+     "Princess Auguste of Bavaria( 28 April 1877 – 25 June 1964) was a member of the Bavarian Royal House of Wittelsbach and the spouse of Archduke Joseph August of Austria."
+    ]
+   ],
+   [
+    "Mehdi Abrishamchi",
+    [
+     "Mehdi Abrishamchi is an Iranian People's Mujahedin of Iran( MEK) politician who has been described as\" the right hand man of Massoud Rajavi\".",
+     "He is the former spouse of the group's current leader, Maryam Rajavi, whom he divorced so that she could become the spouse of Massoud Rajavi."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Eden and After",
+    0
+   ],
+   [
+    "Alain Robbe-Grillet",
+    3
+   ]
+  ],
+  "evidences": [
+   [
+    "Eden and After",
+    "director",
+    "Alain Robbe-Grillet"
+   ],
+   [
+    "Alain Robbe-Grillet",
+    "spouse",
+    "Catherine Robbe-Grillet"
+   ]
+  ],
+  "answer": "Catherine Robbe-Grillet"
+ },
+ {
+  "_id": "6ebe05740bde11eba7f7acde48001122",
+  "type": "compositional",
+  "question": "Where was the place of death of Anastasia Of Serbia's husband?",
+  "context": [
+   [
+    "Slavica Đukić Dejanović",
+    [
+     "Slavica Đukić Dejanović( born 4 July 1951) is a Serbian politician, current Minister without portfolio in the Government of Serbia, and former Minister of Health in the Government of Serbia, acting Head of State of Serbia and President of the National Assembly of Serbia, and a long- time member of the Socialist Party of Serbia.",
+     "Dejanović is the second woman at the head of the National Assembly of Serbia, after Nataša Mićić, who was President of Parliament 2001- 2004, and the first one in the independent Serbia.",
+     "In that role she was also the Acting President of Serbia following the resignation of Boris Tadić in 2012 and was the first woman to hold the post of Head of State of Serbia since independence in 2006."
+    ]
+   ],
+   [
+    "Stefan Nemanja",
+    [
+     "Stefan Nemanja (Serbian Cyrillic: Стефан Немања, ; 1113 – 13 February 1199) was the Grand Prince (Veliki Župan) of the Serbian Grand Principality (also known as Raška, lat. \"",
+     "Rascia\") from 1166 to 1196.",
+     "A member of the Vukanović dynasty, Nemanja founded the Nemanjić dynasty, and is remembered for his contributions to Serbian culture and history, founding what would evolve into the Serbian Empire, as well as the national church.",
+     "According to the Serbian Academy of Sciences and Arts, Nemanja is also among the most remarkable Serbs for his literary contributions and altruistic attributes.",
+     "In 1196, after three decades of warfare and negotiations which consolidated Serbia while distinguishing it from both Western and Byzantine spheres of influence, Nemanja abdicated in favor of his middle son Stefan Nemanjić, who became the first King of Serbia.",
+     "Nemanja ultimately went to Mount Athos, where he became a monk and took the name of Symeon, joining his youngest son (later known as Saint Sava), who had already become the first archbishop of the Serbian Orthodox Church.",
+     "Together with his son Sava, Nemanja restored the Hilandar Monastery at Mount Athos from 1198–1199, and issued the \"Charter of Hilandar\".",
+     "The monastery later became the cradle of the Serbian Orthodox Church.",
+     "The Serbian Orthodox Church canonized Stefan Nemanja shortly after his death under the name Saint Simeon",
+     "the Myrrh-streaming (Свети Симеон Мироточиви) after numerous miracles."
+    ]
+   ],
+   [
+    "Dimitrije Nešić",
+    [
+     "Dimitrije Nešić( 20 October 1836, in Belgrade, Principality of Serbia – 9 May 1904, in Belgrade, Kingdom of Serbia) was a Serbian mathematician, professor at the Lyceum of the Principality of Serbia and president of the Serbian Royal Academy."
+    ]
+   ],
+   [
+    "Anastasia of Serbia",
+    [
+     "Ana ; 1196–d.",
+     "June 22, 1200) was the princess consort of the Serbian Principality as the wife of Stefan Nemanja (r. 1166–1196).",
+     "She was of noble descent.",
+     "Ana took monastic vows in 1196 and was baptized \"Anastasia\", after Anastasia of Sirmium.",
+     "She is venerated by the Serbian Orthodox Church as Saint Anastasija (Света Анастасија) with her feast day on June 22 (Julian calendar)."
+    ]
+   ],
+   [
+    "Suzana Grubješić",
+    [
+     "Suzana Grubješić( born 1963) is a Serbian politician who served as the Deputy Prime Minister of Serbia from 2012 to 2014 under Ivica Dačić and also served on the National Assembly of the Republic of Serbia as both a G17 Plus member and United Regions of Serbia.",
+     "She was involved in negotiations with the European Union and has actively sought integration of Serbia with the EU."
+    ]
+   ],
+   [
+    "Marjana Maraš",
+    [
+     "Marjana Maraš is a politician in Serbia.",
+     "She has served in the National Assembly of Serbia since 2014 as a member of the Socialist Party of Serbia."
+    ]
+   ],
+   [
+    "Zoran Stanković",
+    [
+     "Zoran Stanković( born 9 November 1954) is a Serbian politician.",
+     "He served as the Minister of Defence in the Government of Serbia and the Council of Ministers of Serbia and Montenegro and Minister of Health in the Government of Serbia.",
+     "His affiliation is independent."
+    ]
+   ],
+   [
+    "Princess Helen of Serbia",
+    [
+     "Princess Helen of Serbia and Yugoslavia (23 October (4 November New Style) 1884 – 16 October 1962) was the daughter of King Peter I of Yugoslavia and his wife Princess Zorka of Montenegro.",
+     "She was the elder sister of George, Crown Prince of Serbia and King Alexander I of Yugoslavia.",
+     "Helen was also a niece of Anastasia of Montenegro (or \"Stana\"), wife of Grand Duke Nicholas Nikolaevich of Russia, and of Milica of Montenegro, wife of Grand Duke Peter Nicolaievich of Russia, the women who introduced Grigori Rasputin to Tsarina Alexandra."
+    ]
+   ],
+   [
+    "Jovan Veselinov",
+    [
+     "Jovan Veselinov( 20 January 1906 — 8 February 1982) was a Serbian communist politician.",
+     "He served as President of Serbia, Prime Minister of Serbia and as a Chairman of the League of Communists of Serbia.",
+     "He was a Partisan fighter in World War II, and was proclaimed People's Hero of Yugoslavia."
+    ]
+   ],
+   [
+    "Dragan Tomić",
+    [
+     "Dragan Tomić( born 1936 in Pristina, Kingdom of Yugoslavia) is a Serbian politician, a member of the Socialist Party of Serbia, who served as the President of the National Assembly of Serbia, holding the position from 1994 to 2001.",
+     "After the election of Slobodan Milošević on the position of President of Serbia and Montenegro, which led to Milošević's resignation from the Serbian Presidency, he next became acting President of Serbia by position, according to the Constitution of Serbia, from 23 July to 29 December 1997.",
+     "In the second cabinet of the Prime Minister Mirko Marjanović, Tomić served as the Deputy Prime Minister of Serbia, from 1998 to 2000.",
+     "He was preceded by Slobodan Milošević and succeeded by Milan Milutinović."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Anastasia of Serbia",
+    1
+   ],
+   [
+    "Stefan Nemanja",
+    6
+   ]
+  ],
+  "evidences": [
+   [
+    "Anastasia of Serbia",
+    "spouse",
+    "Stefan Nemanja"
+   ],
+   [
+    "Stefan Nemanja",
+    "place of death",
+    "Hilandar"
+   ]
+  ],
+  "answer": "Hilandar"
+ },
+ {
+  "_id": "a0065fe9085f11ebbd5dac1f6bf848b6",
+  "type": "comparison",
+  "question": "Are Fire In Hell and The Tiger: An Old Hunter'S Tale from the same country?",
+  "context": [
+   [
+    "The Tiger: An Old Hunter's Tale",
+    [
+     "The Tiger( also known as\" The Tiger: An Old Hunter's Tale\",; lit.\" Big Tiger\") is a 2015 South Korean period action drama film about a hunter prepared to kill the last tiger of Joseon."
+    ]
+   ],
+   [
+    "Return of the Tiger",
+    [
+     "Return of the Tiger is a 1978 martial arts Bruceploitation film starring Bruce Li and a sequel to Exit the Dragon, Enter the Tiger."
+    ]
+   ],
+   [
+    "Parinati",
+    [
+     "Parinati( English:\" The Inevitable\") is a 1989 Hindi film directed by Prakash Jha.",
+     "The film is based on a folk tale from Rajasthan."
+    ]
+   ],
+   [
+    "Fire in Hell",
+    [
+     "Fire in Hell is a 2014 South Korean drama film written and directed by South Korean indie provocateur Lee Sang- woo.",
+     "Based on a true story, it made its world premiere at the 13th Jeonju International Film Festival and its international premiere at the 34th Moscow International Film Festival in 2012."
+    ]
+   ],
+   [
+    "Hell and Back",
+    [
+     "Hell and Back or Hell and Back Again or To Hell and Back may refer to:"
+    ]
+   ],
+   [
+    "News in Hell",
+    [
+     "News in Hell is a 1959 Argentine film directed by Román Viñoly Barreto."
+    ]
+   ],
+   [
+    "Hell and High Water",
+    [
+     "Hell and High Water may refer to:"
+    ]
+   ],
+   [
+    "2008 in comics",
+    [
+     "\" Reign in Hell\""
+    ]
+   ],
+   [
+    "Burn in Hell",
+    [
+     "Burn in Hell may refer to:"
+    ]
+   ],
+   [
+    "India: Kingdom of the Tiger",
+    [
+     "India: Kingdom of the Tiger is a 2002 IMAX documentary, based on the writings of Jim Corbett.",
+     "The film was directed by Bruce Neibaur.",
+     "It depicts man-eating tigers and the conservation efforts of the tiger in India."
+    ]
+   ]
+  ],
+  "supporting_facts": [
+   [
+    "Fire in Hell",
+    0
+   ],
+   [
+    "The Tiger: An Old Hunter's Tale",
+    0
+   ]
+  ],
+  "evidences": [
+   [
+    "Fire in Hell",
+    "country of origin",
+    "South Korea"
+   ],
+   [
+    "The Tiger: An Old Hunter's Tale",
+    "country of origin",
+    "South Korea"
+   ]
+  ],
+  "answer": "yes"
+ }
+]
