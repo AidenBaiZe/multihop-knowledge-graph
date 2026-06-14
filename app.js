@@ -695,12 +695,6 @@ function bindUI() {
     })
   );
 
-  document.querySelectorAll("#graph-empty .chip").forEach((c) =>
-    c.addEventListener("click", () => {
-      if (c.dataset.demo === "ent") loadNeighborhood("Polish-Russian War", 2, "");
-      else loadRandomQuestion();
-    })
-  );
 }
 
 window.addEventListener("DOMContentLoaded", () => {

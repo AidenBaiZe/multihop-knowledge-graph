@@ -13,10 +13,6 @@
     <header class="topbar">
       <div class="brand">
         <span class="logo">⬡</span>
-        <div>
-          <h1>多跳知识图谱</h1>
-          <p class="subtitle">2WikiMultihopQA · 查询 / 检索 / 聚类 / 可视化</p>
-        </div>
       </div>
       <div class="conn">
         <span id="status-dot" class="dot"></span>
@@ -41,14 +37,12 @@
             <input id="search-input" type="text" placeholder="如 director、Snow White……" />
             <button id="search-btn">搜索</button>
           </div>
-          <div class="hint">点击结果即可载入图谱</div>
           <div id="search-results" class="results"></div>
 
           <div class="all-q-head">
             <label style="margin:0">全部问题</label>
             <span id="all-q-count" class="hint" style="margin:0"></span>
           </div>
-          <div class="hint">点击任一问题，在右侧画出其多跳证据链</div>
           <div id="all-questions" class="all-questions">
             <div id="all-q-list"></div>
             <div id="all-q-sentinel" class="all-q-sentinel"></div>
@@ -78,7 +72,6 @@
             <input id="q-input" type="text" placeholder="输入问题关键词…" />
             <button id="q-btn">搜索</button>
           </div>
-          <div class="hint">点击问题展示其多跳证据链</div>
           <div id="q-results" class="results"></div>
           <div id="q-detail" class="detail"></div>
         </section>
@@ -109,17 +102,6 @@
 
       <div class="graph-wrap">
         <div id="graph"></div>
-        <div id="graph-empty" class="graph-empty">
-          <div class="ge-card">
-            <div class="ge-logo">⬡</div>
-            <h2>从这里开始探索多跳知识图谱</h2>
-            <p>在左侧检索实体或问题，结果会画在这里。或者直接点下面的例子：</p>
-            <div class="ge-chips">
-              <button class="chip" data-demo="ent">看 Polish-Russian War 的 2 跳关系</button>
-              <button class="chip" data-demo="q">随机一个多跳问题的证据链</button>
-            </div>
-          </div>
-        </div>
         <div id="node-detail" class="node-detail hidden"></div>
         <div id="toast" class="toast hidden"></div>
       </div>
