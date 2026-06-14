@@ -472,7 +472,7 @@ function showNodeDetail(name) {
   box.innerHTML =
     `<span class="close">×</span><h3>${esc(name)}</h3>` +
     `<div class="hint">当前图中关联 ${conn.length} 条关系</div>` +
-    `<button id="nd-expand">展开邻居（双击节点同效）</button>`;
+    `<button id="nd-expand">展开邻居</button>`;
   box.classList.remove("hidden");
   box.querySelector(".close").onclick = () => box.classList.add("hidden");
   $("nd-expand").onclick = () => expandNode(name);
