@@ -49,6 +49,7 @@ async function connect() {
     setStatus("ok", "已连接");
     toast("已连接到 AuraDB");
     initRelationFilter();
+    loadDemo();
   } catch (e) {
     setStatus("err", "连接失败");
     toast("连接失败：" + (e.message || e), true);
@@ -116,12 +117,48 @@ function addEdge(a, b, type) {
   addNode(a);
   addNode(b);
   gEdges.add({ id, from: a, to: b, label: type, title: type });
+  updateEmptyState();
 }
 
 function clearGraph() {
   gNodes.clear();
   gEdges.clear();
   edgeSet.clear();
+  updateEmptyState();
+}
+
+function updateEmptyState() {
+  const el = document.getElementById("graph-empty");
+  if (el) el.style.display = gEdges.length ? "none" : "flex";
+}
+
+async function loadDemo() {
+  if (gEdges.length) return;
+  for (const seed of ["Polish-Russian War", "Snow White", "Wong Kar-wai"]) {
+    try {
+      const rows = await run(
+        "MATCH p=(s:Entity {name:$name})-[:REL*1..2]-(t) " +
+          "WITH relationships(p) AS rels UNWIND rels AS r " +
+          "RETURN DISTINCT startNode(r).name AS a, endNode(r).name AS b, r.type AS type LIMIT 60",
+        { name: seed }
+      );
+      if (rows.length) {
+        clearGraph();
+        drawEdges(rows, seed);
+        toast("已载入示例图谱，可在左侧继续探索");
+        return;
+      }
+    } catch (_) {}
+  }
+}
+
+async function loadRandomQuestion() {
+  try {
+    const r = await run("MATCH (q:Question) RETURN q.id AS id ORDER BY rand() LIMIT 1");
+    if (r.length) loadQuestion(r[0].get("id"));
+  } catch (e) {
+    toast("加载失败：" + e.message, true);
+  }
 }
 
 function drawEdges(rows, focus) {
@@ -535,10 +572,18 @@ function bindUI() {
       acTimer = setTimeout(() => autocomplete(e.target.value), 220);
     })
   );
+
+  document.querySelectorAll("#graph-empty .chip").forEach((c) =>
+    c.addEventListener("click", () => {
+      if (c.dataset.demo === "ent") loadNeighborhood("Polish-Russian War", 2, "");
+      else loadRandomQuestion();
+    })
+  );
 }
 
 window.addEventListener("DOMContentLoaded", () => {
   bindUI();
   ensureNetwork();
+  updateEmptyState();
   connect();
 });

@@ -137,6 +137,20 @@ hr { border: none; border-top: 1px solid var(--line); margin: 16px 0; }
 .node-detail .close { position: absolute; top: 8px; right: 10px; cursor: pointer; color: var(--muted); }
 .node-detail button { width: 100%; margin-top: 8px; font-size: 12px; }
 
+.graph-empty {
+  position: absolute; inset: 0; display: flex;
+  align-items: center; justify-content: center; pointer-events: none;
+}
+.graph-empty .ge-card {
+  pointer-events: auto; text-align: center; max-width: 380px; padding: 24px;
+}
+.ge-logo { font-size: 44px; color: var(--accent2); }
+.graph-empty h2 { font-size: 19px; margin: 12px 0 8px; }
+.graph-empty p { color: var(--muted); font-size: 13px; margin: 0 0 16px; line-height: 1.6; }
+.ge-chips { display: flex; flex-direction: column; gap: 8px; }
+.ge-chips .chip { background: var(--panel2); border: 1px solid var(--line); }
+.ge-chips .chip:hover { border-color: var(--accent); color: #fff; }
+
 .toast {
   position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
   background: rgba(23,26,43,.96); border: 1px solid var(--line);
