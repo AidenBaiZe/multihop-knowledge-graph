@@ -7,6 +7,8 @@
 部署后访问：`https://<用户名>.github.io/<仓库名>/`
 
 > 网页通过浏览器端的 `neo4j-driver` 直连 Neo4j AuraDB 云实例。免费实例仅用于课程演示，闲置一段时间会自动暂停，可在 [Neo4j Console](https://console.neo4j.io) 一键恢复。
+>
+> 为了减少手动恢复的麻烦，仓库里加了个 [`keepalive`](.github/workflows/keepalive.yml) 定时任务，每天给数据库发一次心跳，避免它因闲置 72 小时被自动暂停。
 
 ## 数据与图模型
 
