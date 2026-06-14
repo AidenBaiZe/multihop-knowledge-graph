@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>多跳知识图谱 · 查询与可视化</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/neo4j-driver@5/lib/browser/neo4j-web.min.js"></script>
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">⬡</span>
+        <div>
+          <h1>多跳知识图谱</h1>
+          <p class="subtitle">2WikiMultihopQA · 查询 / 检索 / 聚类 / 可视化</p>
+        </div>
+      </div>
+      <div class="conn">
+        <span id="status-dot" class="dot"></span>
+        <span id="status-text">未连接</span>
+        <button id="btn-reconnect" class="ghost">重连</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="panel">
+        <nav class="tabs">
+          <button class="tab active" data-tab="search">检索</button>
+          <button class="tab" data-tab="hop">多跳</button>
+          <button class="tab" data-tab="question">问题</button>
+          <button class="tab" data-tab="cluster">聚类</button>
+          <button class="tab" data-tab="stats">统计</button>
+        </nav>
+
+        <section class="tab-body active" data-body="search">
+          <label>关键词检索（实体 / 问题）</label>
+          <div class="row">
+            <input id="search-input" type="text" placeholder="如 director、Snow White……" />
+            <button id="search-btn">搜索</button>
+          </div>
+          <div class="hint">点击结果即可载入图谱</div>
+          <div id="search-results" class="results"></div>
+        </section>
+
+        <section class="tab-body" data-body="hop">
+          <label>起点实体</label>
+          <input id="hop-start" list="entity-list" type="text" placeholder="输入实体名…" />
+          <datalist id="entity-list"></datalist>
+          <label>跳数：<span id="hop-num">2</span></label>
+          <input id="hop-range" type="range" min="1" max="4" value="2" />
+          <label>关系类型（可选，限定整条路径）</label>
+          <select id="hop-rel"><option value="">不限</option></select>
+          <button id="hop-btn" class="primary">查询邻域路径</button>
+
+          <hr />
+          <label>两实体最短路径</label>
+          <input id="path-a" list="entity-list" type="text" placeholder="实体 A" />
+          <input id="path-b" list="entity-list" type="text" placeholder="实体 B" />
+          <button id="path-btn">查最短路径</button>
+        </section>
+
+        <section class="tab-body" data-body="question">
+          <label>按问题检索</label>
+          <div class="row">
+            <input id="q-input" type="text" placeholder="输入问题关键词…" />
+            <button id="q-btn">搜索</button>
+          </div>
+          <div class="hint">点击问题展示其多跳证据链</div>
+          <div id="q-results" class="results"></div>
+          <div id="q-detail" class="detail"></div>
+        </section>
+
+        <section class="tab-body" data-body="cluster">
+          <label>对当前图聚类</label>
+          <select id="cluster-method">
+            <option value="louvain">社区发现（标签传播）</option>
+            <option value="component">连通分量</option>
+            <option value="relation">按关系类型</option>
+          </select>
+          <button id="cluster-btn" class="primary">开始聚类并着色</button>
+          <div id="cluster-info" class="hint"></div>
+          <div id="cluster-legend" class="legend"></div>
+        </section>
+
+        <section class="tab-body" data-body="stats">
+          <button id="stats-btn">加载全局统计</button>
+          <div class="stat-cards">
+            <div class="card"><span id="stat-ent">–</span><small>实体</small></div>
+            <div class="card"><span id="stat-rel">–</span><small>关系</small></div>
+            <div class="card"><span id="stat-q">–</span><small>问题</small></div>
+          </div>
+          <canvas id="chart-rel" height="160"></canvas>
+          <canvas id="chart-qtype" height="160"></canvas>
+        </section>
+      </aside>
+
+      <div class="graph-wrap">
+        <div id="graph"></div>
+        <div id="node-detail" class="node-detail hidden"></div>
+        <div id="toast" class="toast hidden"></div>
+      </div>
+    </main>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
